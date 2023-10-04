@@ -37,4 +37,4 @@ combustivel <- combustivel |>
             "Cep")) |> 
   rename(Município = Municipio)
 
-saveRDS(combustivel, 'combustivel.rds')
+saveRDS(combustivel, 'data/combustivel.rds')
