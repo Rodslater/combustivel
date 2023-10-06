@@ -52,5 +52,5 @@ combustivel <- combustivel |>
   geocode(`Endereço resumido`, lat = latitude , long = longitude)
 
 
-saveRDS(combustivel, 'combustivel.rds')
+saveRDS(combustivel, 'data/combustivel.rds')
 
