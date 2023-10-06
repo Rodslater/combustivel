@@ -48,5 +48,5 @@ combustivel <- combustivel |>
   rename(Município = Municipio,
          Posto = Revenda,
          Preço = `Valor de Venda`) |> 
-  relocate(Preço, .after = Posto)
+  relocate(Preço, .after = Posto) |>
   geocode(`Endereço resumido`, lat = latitude , long = longitude)
