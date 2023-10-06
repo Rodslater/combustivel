@@ -1,6 +1,7 @@
 library(readr)
 library(dplyr)
 library(lubridate)
+library(tidygeocoder)
 
 link_gasolina_etanol <- paste0(
   "https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/",
@@ -35,6 +36,7 @@ combustivel <- combustivel |>
             "Numero Rua",
             "Complemento",
             "Cep")) |> 
-  rename(Município = Municipio)
+  rename(Município = Municipio) |> 
+  geocode(`Endereço resumido`, lat = latitude , long = longitude)
 
 saveRDS(combustivel, 'data/combustivel.rds')
