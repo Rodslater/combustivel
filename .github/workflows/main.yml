@@ -21,7 +21,8 @@ jobs:
           packages: |
             any::dplyr
             any::lubridate
-            any::readr    
+            any::readr
+            any::tidygeocoder
             
       - name: Execute Script
         run: |
