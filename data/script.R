@@ -50,3 +50,7 @@ combustivel <- combustivel |>
          Preço = `Valor de Venda`) |> 
   relocate(Preço, .after = Posto) |>
   geocode(`Endereço resumido`, lat = latitude , long = longitude)
+
+
+saveRDS(combustivel, 'combustivel.rds')
+
