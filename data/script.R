@@ -26,7 +26,7 @@ combustivel <- gasolina_etanol |>
 
 
 combustivel <- combustivel |>
-  filter(`Estado - Sigla` == "SE") |>
+  filter(`Estado - Sigla` == "BA") |>
   mutate(Data = dmy(`Data da Coleta`),
          Complemento = ifelse(Complemento == 0, NA, Complemento),
          Endereço = ifelse(is.na(Complemento), 
