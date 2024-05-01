@@ -44,7 +44,8 @@ combustivel <- combustivel |>
             "Numero Rua",
             "Complemento",
             "Cep")) |> 
-  rename(Município = Municipio,
+  rename(Estado = `Estado - Sigla`,
+         Município = Municipio,
          Posto = Revenda,
          Preço = `Valor de Venda`) |> 
   relocate(Preço, .after = Posto) |>
