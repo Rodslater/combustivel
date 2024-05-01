@@ -38,7 +38,6 @@ combustivel <- combustivel |>
   select(-c("Valor de Compra",
             "CNPJ da Revenda",
             "Unidade de Medida",
-            "Estado - Sigla", 
             "Regiao - Sigla",
             "Data da Coleta",
             "Nome da Rua",
