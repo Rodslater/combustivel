@@ -55,8 +55,8 @@ combustivel <- combustivel |>
 
 
 combustivel_n8n <- dados |> 
-  select(Município, Produto, Data, Preço) |> 
-  group_by(Município, Produto) |>
+  select(Município, Combustível = Produto, Data, Preço) |> 
+  group_by(Município, Combustível) |>
   filter(Data == max(Data)) |> 
   distinct() |> 
   slice_min(Preço) |> 
