@@ -61,7 +61,8 @@ combustivel_n8n <- combustivel |>
   filter(Data == max(Data)) |> 
   distinct() |> 
   slice_min(Preço) |> 
-  mutate(Município = str_to_title(Município)) |> 
+  mutate(Município = str_to_title(Município),
+         Preço = format(Preço, decimal.mark = ",")) |> 
   mutate(
     Município = str_replace_all(
       Município,
