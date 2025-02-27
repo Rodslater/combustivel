@@ -3,6 +3,7 @@ library(dplyr)
 library(lubridate)
 library(tidygeocoder)
 library(stringr)
+library(jsonlite)
 
 link_gasolina_etanol <- paste0(
   "https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/",
@@ -54,7 +55,7 @@ combustivel <- combustivel |>
 
 
 
-combustivel_n8n <- dados |> 
+combustivel_n8n <- combustivel |> 
   select(Município, Combustível = Produto, Data, Preço) |> 
   group_by(Município, Combustível) |>
   filter(Data == max(Data)) |> 
@@ -73,4 +74,4 @@ combustivel_n8n <- dados |>
 
 
 saveRDS(combustivel, 'data/combustivel.rds')
-write.csv(combustivel_n8n, "data/combustivel_n8n.csv", row.names = FALSE)
+write_json(combustivel_n8n, "combustivel_n8n.json", pretty = TRUE, auto_unbox = TRUE)
