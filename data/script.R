@@ -70,7 +70,15 @@ combustivel_n8n <- dados |>
         "\\bDe\\b" = "de")
     )
   ) |> 
-  mutate(Data = format(Data, "%d/%m/%Y"))
+  mutate(Data = format(Data, "%d/%m/%Y")) |> 
+  mutate(Combustível = case_when(
+    Combustível == "DIESEL" ~ "Diesel",
+    Combustível == "DIESEL S10" ~ "Diesel S10",
+    Combustível == "ETANOL" ~ "Etanol",
+    Combustível == "GASOLINA" ~ "Gasolina",
+    Combustível == "GASOLINA ADITIVADA" ~ "Gasolina aditivada",
+    TRUE ~ Combustível 
+  ))
 
 
 saveRDS(combustivel, 'data/combustivel.rds')
