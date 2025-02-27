@@ -24,6 +24,7 @@ jobs:
             any::readr
             any::tidygeocoder
             any::stringr
+            any::jsonlite
             
       - name: Execute Script
         run: |
