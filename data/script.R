@@ -74,4 +74,4 @@ combustivel_n8n <- combustivel |>
 
 
 saveRDS(combustivel, 'data/combustivel.rds')
-write_json(combustivel_n8n, "combustivel_n8n.json", pretty = TRUE, auto_unbox = TRUE)
+write_json(combustivel_n8n, "data/combustivel.json", pretty = TRUE, auto_unbox = TRUE)
