@@ -23,6 +23,7 @@ jobs:
             any::lubridate
             any::readr
             any::tidygeocoder
+            any::stringr
             
       - name: Execute Script
         run: |
