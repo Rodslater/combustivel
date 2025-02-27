@@ -55,7 +55,7 @@ combustivel <- combustivel |>
 
 
 
-combustivel_n8n <- combustivel |> 
+combustivel_n8n <- dados |> 
   select(Município, Combustível = Produto, Data, Preço) |> 
   group_by(Município, Combustível) |>
   filter(Data == max(Data)) |> 
@@ -69,8 +69,8 @@ combustivel_n8n <- combustivel |>
         "\\bDa\\b" = "da",
         "\\bDe\\b" = "de")
     )
-  )
-
+  ) |> 
+  mutate(Data = format(Data, "%d/%m/%Y"))
 
 
 saveRDS(combustivel, 'data/combustivel.rds')
