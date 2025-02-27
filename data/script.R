@@ -55,7 +55,7 @@ combustivel <- combustivel |>
 
 
 
-combustivel_n8n <- dados |> 
+combustivel_n8n <- combustivel |> 
   select(Município, Combustível = Produto, Data, Preço) |> 
   group_by(Município, Combustível) |>
   filter(Data == max(Data)) |> 
