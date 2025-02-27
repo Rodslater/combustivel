@@ -2,6 +2,7 @@ library(readr)
 library(dplyr)
 library(lubridate)
 library(tidygeocoder)
+library(stringr)
 
 link_gasolina_etanol <- paste0(
   "https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/",
@@ -51,5 +52,25 @@ combustivel <- combustivel |>
   relocate(Preço, .after = Posto) |>
   geocode(`Endereço resumido`, lat = latitude , long = longitude)
 
-saveRDS(combustivel, 'data/combustivel.rds')
 
+
+combustivel_n8n <- dados |> 
+  select(Município, Produto, Data, Preço) |> 
+  group_by(Município, Produto) |>
+  filter(Data == max(Data)) |> 
+  distinct() |> 
+  slice_min(Preço) |> 
+  mutate(Município = str_to_title(Município)) |> 
+  mutate(
+    Município = str_replace_all(
+      Município,
+      c("\\bDo\\b" = "do",
+        "\\bDa\\b" = "da",
+        "\\bDe\\b" = "de")
+    )
+  )
+
+
+
+saveRDS(combustivel, 'data/combustivel.rds')
+write.csv(combustivel_n8n, "data/combustivel_n8n.csv", row.names = FALSE)
