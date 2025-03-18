@@ -67,7 +67,6 @@ combustivel <- combustivel |>
         "\\bDe\\b" = "de")
     )
   ) |> 
-  mutate(Data = format(Data, "%d/%m/%Y")) |> 
   mutate(Combustível = case_when(
     Combustível == "DIESEL" ~ "Diesel",
     Combustível == "DIESEL S10" ~ "Diesel S10",
