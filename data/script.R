@@ -26,9 +26,7 @@ combustivel <- gasolina_etanol |>
   full_join(glp)
 
 
-
 combustivel <- combustivel |>
-  filter(`Estado - Sigla` %in% c("SE", "AL", "BA")) |>
   mutate(Data = dmy(`Data da Coleta`),
          Complemento = ifelse(Complemento == 0, NA, Complemento),
          Endereço = ifelse(is.na(Complemento), 
@@ -50,19 +48,17 @@ combustivel <- combustivel |>
          Município = Municipio,
          Posto = Revenda,
          Preço = `Valor de Venda`) |> 
-  relocate(Preço, .after = Posto) |>
+  relocate(Preço, .after = Posto) 
+
+
+combustivel_app <- combustivel |>
+  filter(Estado %in% c("SE", "AL", "BA")) |>
   geocode(`Endereço resumido`, lat = latitude , long = longitude)
 
 
-
-combustivel_n8n <- combustivel |> 
-  select(Município, Combustível = Produto, Data, Preço) |> 
-  group_by(Município, Combustível) |>
-  filter(Data == max(Data)) |> 
-  distinct() |> 
-  slice_min(Preço) |> 
-  mutate(Município = str_to_title(Município),
-         Preço = format(Preço, decimal.mark = ",")) |> 
+combustivel <- combustivel |> 
+  rename(Combustível = Produto) |> 
+  mutate(Município = str_to_title(Município)) |> 
   mutate(
     Município = str_replace_all(
       Município,
@@ -81,7 +77,25 @@ combustivel_n8n <- combustivel |>
     TRUE ~ Combustível 
   ))
 
+combustivel_SEALBA <- combustivel |> 
+  filter(Estado %in% c("SE", "AL", "BA")) |>
+  select(Município, Combustível, Data, Preço) |> 
+  group_by(Município, Combustível) |>
+  filter(Data == max(Data)) |> 
+  distinct() |> 
+  slice_min(Preço) |> 
+  mutate(Preço = format(Preço, decimal.mark = ","))
 
-saveRDS(combustivel, 'data/combustivel.rds')
+combustivel_BR <- combustivel |> 
+  select(Município, Combustível, Data, Preço) |> 
+  group_by(Município, Combustível) |>
+  filter(Data == max(Data)) |> 
+  distinct() |> 
+  slice_min(Preço) |> 
+  mutate(Preço = format(Preço, decimal.mark = ","))
 
-write_json(combustivel_n8n, "data/combustivel.json", pretty = TRUE, auto_unbox = TRUE)
+
+saveRDS(combustivel_app, 'data/combustivel.rds')
+
+write_json(combustivel_SEALBA, "data/combustivel_SEALBA.json", pretty = TRUE, auto_unbox = TRUE)
+write_json(combustivel_BR, "data/combustivel_BR.json", pretty = TRUE, auto_unbox = TRUE)
