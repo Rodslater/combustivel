@@ -59,14 +59,6 @@ combustivel_app <- combustivel |>
 combustivel <- combustivel |> 
   rename(Combustível = Produto) |> 
   mutate(Município = str_to_title(Município)) |> 
-  mutate(
-    Município = str_replace_all(
-      Município,
-      c("\\bDo\\b" = "do",
-        "\\bDa\\b" = "da",
-        "\\bDe\\b" = "de")
-    )
-  ) |> 
   mutate(Combustível = case_when(
     Combustível == "DIESEL" ~ "Diesel",
     Combustível == "DIESEL S10" ~ "Diesel S10",
@@ -82,14 +74,23 @@ combustivel_SEALBA <- combustivel |>
   group_by(Município, Combustível) |>
   filter(Data == max(Data)) |> 
   distinct() |> 
-  slice_min(Preço)
+  slice_min(Preço) |> 
+  mutate(Combustível = as.character(factor(Combustível, levels = c(
+    "Diesel", "Diesel S10", "Etanol", "Gasolina", "Gasolina aditivada", "GLP", "GNV"
+  )))) |> 
+  arrange(Município, Combustível, Data, Preço)
+
 
 combustivel_BR <- combustivel |> 
   select(Município, Combustível, Data, Preço) |> 
   group_by(Município, Combustível) |>
   filter(Data == max(Data)) |> 
   distinct() |> 
-  slice_min(Preço) 
+  slice_min(Preço) |> 
+  mutate(Combustível = as.character(factor(Combustível, levels = c(
+    "Diesel", "Diesel S10", "Etanol", "Gasolina", "Gasolina aditivada", "GLP", "GNV"
+  )))) |> 
+  arrange(Município, Combustível, Data, Preço)
 
 saveRDS(combustivel_app, 'data/combustivel.rds')
 
