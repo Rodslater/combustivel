@@ -83,17 +83,14 @@ combustivel_SEALBA <- combustivel |>
   group_by(Município, Combustível) |>
   filter(Data == max(Data)) |> 
   distinct() |> 
-  slice_min(Preço) |> 
-  mutate(Preço = format(Preço, decimal.mark = ","))
+  slice_min(Preço)
 
 combustivel_BR <- combustivel |> 
   select(Município, Combustível, Data, Preço) |> 
   group_by(Município, Combustível) |>
   filter(Data == max(Data)) |> 
   distinct() |> 
-  slice_min(Preço) |> 
-  mutate(Preço = format(Preço, decimal.mark = ","))
-
+  slice_min(Preço) 
 
 saveRDS(combustivel_app, 'data/combustivel.rds')
 
