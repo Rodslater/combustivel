@@ -75,10 +75,11 @@ combustivel_SEALBA <- combustivel |>
   filter(Data == max(Data)) |> 
   distinct() |> 
   slice_min(Preço) |> 
-  mutate(Combustível = as.character(factor(Combustível, levels = c(
+  mutate(Combustível = factor(Combustível, levels = c(
     "Diesel", "Diesel S10", "Etanol", "Gasolina", "Gasolina aditivada", "GLP", "GNV"
-  )))) |> 
-  arrange(Município, Combustível, Data, Preço)
+  ))) |> 
+  arrange(Município, Combustível, Data, Preço) |> 
+  mutate(Combustível = as.character(Combustível))
 
 
 combustivel_BR <- combustivel |> 
@@ -87,10 +88,11 @@ combustivel_BR <- combustivel |>
   filter(Data == max(Data)) |> 
   distinct() |> 
   slice_min(Preço) |> 
-  mutate(Combustível = as.character(factor(Combustível, levels = c(
+  mutate(Combustível = factor(Combustível, levels = c(
     "Diesel", "Diesel S10", "Etanol", "Gasolina", "Gasolina aditivada", "GLP", "GNV"
-  )))) |> 
-  arrange(Município, Combustível, Data, Preço)
+  ))) |> 
+  arrange(Município, Combustível, Data, Preço) |> 
+  mutate(Combustível = as.character(Combustível))
 
 saveRDS(combustivel_app, 'data/combustivel.rds')
 
