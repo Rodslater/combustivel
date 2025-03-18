@@ -19,18 +19,6 @@
   },
   {
     "Município": "Alagoinhas",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 119.99
-  },
-  {
-    "Município": "Alagoinhas",
-    "Combustível": "GNV",
-    "Data": "2025-03-12",
-    "Preço": 4.38
-  },
-  {
-    "Município": "Alagoinhas",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 6.41
@@ -40,6 +28,18 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.41
+  },
+  {
+    "Município": "Alagoinhas",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 119.99
+  },
+  {
+    "Município": "Alagoinhas",
+    "Combustível": "GNV",
+    "Data": "2025-03-12",
+    "Preço": 4.38
   },
   {
     "Município": "Aracaju",
@@ -55,18 +55,6 @@
   },
   {
     "Município": "Aracaju",
-    "Combustível": "GLP",
-    "Data": "2025-03-11",
-    "Preço": 99.9
-  },
-  {
-    "Município": "Aracaju",
-    "Combustível": "GNV",
-    "Data": "2025-03-11",
-    "Preço": 4.9
-  },
-  {
-    "Município": "Aracaju",
     "Combustível": "Gasolina",
     "Data": "2025-03-11",
     "Preço": 6.62
@@ -76,6 +64,18 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-11",
     "Preço": 6.62
+  },
+  {
+    "Município": "Aracaju",
+    "Combustível": "GLP",
+    "Data": "2025-03-11",
+    "Preço": 99.9
+  },
+  {
+    "Município": "Aracaju",
+    "Combustível": "GNV",
+    "Data": "2025-03-11",
+    "Preço": 4.9
   },
   {
     "Município": "Arapiraca",
@@ -97,18 +97,6 @@
   },
   {
     "Município": "Arapiraca",
-    "Combustível": "GLP",
-    "Data": "2025-03-11",
-    "Preço": 95
-  },
-  {
-    "Município": "Arapiraca",
-    "Combustível": "GNV",
-    "Data": "2025-03-10",
-    "Preço": 4.99
-  },
-  {
-    "Município": "Arapiraca",
     "Combustível": "Gasolina",
     "Data": "2025-03-11",
     "Preço": 6.25
@@ -118,6 +106,18 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-11",
     "Preço": 6.29
+  },
+  {
+    "Município": "Arapiraca",
+    "Combustível": "GLP",
+    "Data": "2025-03-11",
+    "Preço": 95
+  },
+  {
+    "Município": "Arapiraca",
+    "Combustível": "GNV",
+    "Data": "2025-03-10",
+    "Preço": 4.99
   },
   {
     "Município": "Barreiras",
@@ -139,12 +139,6 @@
   },
   {
     "Município": "Barreiras",
-    "Combustível": "GLP",
-    "Data": "2025-03-13",
-    "Preço": 130
-  },
-  {
-    "Município": "Barreiras",
     "Combustível": "Gasolina",
     "Data": "2025-03-13",
     "Preço": 6.49
@@ -154,6 +148,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-13",
     "Preço": 6.55
+  },
+  {
+    "Município": "Barreiras",
+    "Combustível": "GLP",
+    "Data": "2025-03-13",
+    "Preço": 130
   },
   {
     "Município": "Brumado",
@@ -175,12 +175,6 @@
   },
   {
     "Município": "Brumado",
-    "Combustível": "GLP",
-    "Data": "2025-03-13",
-    "Preço": 115
-  },
-  {
-    "Município": "Brumado",
     "Combustível": "Gasolina",
     "Data": "2025-03-13",
     "Preço": 6.56
@@ -190,6 +184,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-13",
     "Preço": 6.59
+  },
+  {
+    "Município": "Brumado",
+    "Combustível": "GLP",
+    "Data": "2025-03-13",
+    "Preço": 115
   },
   {
     "Município": "Caetite",
@@ -211,12 +211,6 @@
   },
   {
     "Município": "Caetite",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 110
-  },
-  {
-    "Município": "Caetite",
     "Combustível": "Gasolina",
     "Data": "2025-03-11",
     "Preço": 6.88
@@ -226,6 +220,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-11",
     "Preço": 6.89
+  },
+  {
+    "Município": "Caetite",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 110
   },
   {
     "Município": "Delmiro Gouveia",
@@ -247,12 +247,6 @@
   },
   {
     "Município": "Delmiro Gouveia",
-    "Combustível": "GLP",
-    "Data": "2025-03-13",
-    "Preço": 105
-  },
-  {
-    "Município": "Delmiro Gouveia",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 7.18
@@ -262,6 +256,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 7.48
+  },
+  {
+    "Município": "Delmiro Gouveia",
+    "Combustível": "GLP",
+    "Data": "2025-03-13",
+    "Preço": 105
   },
   {
     "Município": "Eunapolis",
@@ -283,12 +283,6 @@
   },
   {
     "Município": "Eunapolis",
-    "Combustível": "GLP",
-    "Data": "2025-03-13",
-    "Preço": 109.99
-  },
-  {
-    "Município": "Eunapolis",
     "Combustível": "Gasolina",
     "Data": "2025-03-13",
     "Preço": 6.66
@@ -298,6 +292,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-13",
     "Preço": 6.66
+  },
+  {
+    "Município": "Eunapolis",
+    "Combustível": "GLP",
+    "Data": "2025-03-13",
+    "Preço": 109.99
   },
   {
     "Município": "Feira De Santana",
@@ -319,18 +319,6 @@
   },
   {
     "Município": "Feira De Santana",
-    "Combustível": "GLP",
-    "Data": "2025-03-13",
-    "Preço": 114.9
-  },
-  {
-    "Município": "Feira De Santana",
-    "Combustível": "GNV",
-    "Data": "2025-03-14",
-    "Preço": 4.49
-  },
-  {
-    "Município": "Feira De Santana",
     "Combustível": "Gasolina",
     "Data": "2025-03-14",
     "Preço": 6.33
@@ -340,6 +328,18 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-14",
     "Preço": 6.33
+  },
+  {
+    "Município": "Feira De Santana",
+    "Combustível": "GLP",
+    "Data": "2025-03-13",
+    "Preço": 114.9
+  },
+  {
+    "Município": "Feira De Santana",
+    "Combustível": "GNV",
+    "Data": "2025-03-14",
+    "Preço": 4.49
   },
   {
     "Município": "Guanambi",
@@ -361,12 +361,6 @@
   },
   {
     "Município": "Guanambi",
-    "Combustível": "GLP",
-    "Data": "2025-03-10",
-    "Preço": 110
-  },
-  {
-    "Município": "Guanambi",
     "Combustível": "Gasolina",
     "Data": "2025-03-11",
     "Preço": 6.65
@@ -376,6 +370,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-11",
     "Preço": 6.79
+  },
+  {
+    "Município": "Guanambi",
+    "Combustível": "GLP",
+    "Data": "2025-03-10",
+    "Preço": 110
   },
   {
     "Município": "Ilheus",
@@ -397,18 +397,6 @@
   },
   {
     "Município": "Ilheus",
-    "Combustível": "GLP",
-    "Data": "2025-03-13",
-    "Preço": 135
-  },
-  {
-    "Município": "Ilheus",
-    "Combustível": "GNV",
-    "Data": "2025-03-13",
-    "Preço": 4.63
-  },
-  {
-    "Município": "Ilheus",
     "Combustível": "Gasolina",
     "Data": "2025-03-13",
     "Preço": 6.61
@@ -418,6 +406,18 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.61
+  },
+  {
+    "Município": "Ilheus",
+    "Combustível": "GLP",
+    "Data": "2025-03-13",
+    "Preço": 135
+  },
+  {
+    "Município": "Ilheus",
+    "Combustível": "GNV",
+    "Data": "2025-03-13",
+    "Preço": 4.63
   },
   {
     "Município": "Ipira",
@@ -439,12 +439,6 @@
   },
   {
     "Município": "Ipira",
-    "Combustível": "GLP",
-    "Data": "2025-03-10",
-    "Preço": 115
-  },
-  {
-    "Município": "Ipira",
     "Combustível": "Gasolina",
     "Data": "2025-03-10",
     "Preço": 6.39
@@ -454,6 +448,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-10",
     "Preço": 6.39
+  },
+  {
+    "Município": "Ipira",
+    "Combustível": "GLP",
+    "Data": "2025-03-10",
+    "Preço": 115
   },
   {
     "Município": "Irece",
@@ -475,12 +475,6 @@
   },
   {
     "Município": "Irece",
-    "Combustível": "GLP",
-    "Data": "2025-03-13",
-    "Preço": 125
-  },
-  {
-    "Município": "Irece",
     "Combustível": "Gasolina",
     "Data": "2025-03-13",
     "Preço": 6.2
@@ -490,6 +484,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-13",
     "Preço": 6.23
+  },
+  {
+    "Município": "Irece",
+    "Combustível": "GLP",
+    "Data": "2025-03-13",
+    "Preço": 125
   },
   {
     "Município": "Itabaiana",
@@ -511,12 +511,6 @@
   },
   {
     "Município": "Itabaiana",
-    "Combustível": "GLP",
-    "Data": "2025-03-10",
-    "Preço": 99.99
-  },
-  {
-    "Município": "Itabaiana",
     "Combustível": "Gasolina",
     "Data": "2025-03-10",
     "Preço": 6.51
@@ -526,6 +520,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-10",
     "Preço": 6.51
+  },
+  {
+    "Município": "Itabaiana",
+    "Combustível": "GLP",
+    "Data": "2025-03-10",
+    "Preço": 99.99
   },
   {
     "Município": "Itabuna",
@@ -547,18 +547,6 @@
   },
   {
     "Município": "Itabuna",
-    "Combustível": "GLP",
-    "Data": "2025-03-13",
-    "Preço": 110
-  },
-  {
-    "Município": "Itabuna",
-    "Combustível": "GNV",
-    "Data": "2025-03-12",
-    "Preço": 4.8
-  },
-  {
-    "Município": "Itabuna",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 6.59
@@ -568,6 +556,18 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.59
+  },
+  {
+    "Município": "Itabuna",
+    "Combustível": "GLP",
+    "Data": "2025-03-13",
+    "Preço": 110
+  },
+  {
+    "Município": "Itabuna",
+    "Combustível": "GNV",
+    "Data": "2025-03-12",
+    "Preço": 4.8
   },
   {
     "Município": "Itamaraju",
@@ -589,12 +589,6 @@
   },
   {
     "Município": "Itamaraju",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 105
-  },
-  {
-    "Município": "Itamaraju",
     "Combustível": "Gasolina",
     "Data": "2025-03-13",
     "Preço": 6.74
@@ -604,6 +598,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-13",
     "Preço": 6.85
+  },
+  {
+    "Município": "Itamaraju",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 105
   },
   {
     "Município": "Jequie",
@@ -625,12 +625,6 @@
   },
   {
     "Município": "Jequie",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 110
-  },
-  {
-    "Município": "Jequie",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 6.75
@@ -640,6 +634,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.75
+  },
+  {
+    "Município": "Jequie",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 110
   },
   {
     "Município": "Juazeiro",
@@ -661,12 +661,6 @@
   },
   {
     "Município": "Juazeiro",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 110
-  },
-  {
-    "Município": "Juazeiro",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 6.79
@@ -676,6 +670,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.89
+  },
+  {
+    "Município": "Juazeiro",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 110
   },
   {
     "Município": "Lagarto",
@@ -697,12 +697,6 @@
   },
   {
     "Município": "Lagarto",
-    "Combustível": "GLP",
-    "Data": "2025-03-10",
-    "Preço": 100
-  },
-  {
-    "Município": "Lagarto",
     "Combustível": "Gasolina",
     "Data": "2025-03-10",
     "Preço": 6.51
@@ -712,6 +706,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-10",
     "Preço": 6.51
+  },
+  {
+    "Município": "Lagarto",
+    "Combustível": "GLP",
+    "Data": "2025-03-10",
+    "Preço": 100
   },
   {
     "Município": "Livramento De Nossa Senhora",
@@ -733,12 +733,6 @@
   },
   {
     "Município": "Livramento De Nossa Senhora",
-    "Combustível": "GLP",
-    "Data": "2025-03-11",
-    "Preço": 110
-  },
-  {
-    "Município": "Livramento De Nossa Senhora",
     "Combustível": "Gasolina",
     "Data": "2025-03-11",
     "Preço": 6.93
@@ -748,6 +742,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-11",
     "Preço": 6.94
+  },
+  {
+    "Município": "Livramento De Nossa Senhora",
+    "Combustível": "GLP",
+    "Data": "2025-03-11",
+    "Preço": 110
   },
   {
     "Município": "Maceio",
@@ -769,18 +769,6 @@
   },
   {
     "Município": "Maceio",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 84.99
-  },
-  {
-    "Município": "Maceio",
-    "Combustível": "GNV",
-    "Data": "2025-03-12",
-    "Preço": 4.89
-  },
-  {
-    "Município": "Maceio",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 6.18
@@ -790,6 +778,18 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.19
+  },
+  {
+    "Município": "Maceio",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 84.99
+  },
+  {
+    "Município": "Maceio",
+    "Combustível": "GNV",
+    "Data": "2025-03-12",
+    "Preço": 4.89
   },
   {
     "Município": "Nossa Senhora Do Socorro",
@@ -811,18 +811,6 @@
   },
   {
     "Município": "Nossa Senhora Do Socorro",
-    "Combustível": "GLP",
-    "Data": "2025-03-13",
-    "Preço": 99.99
-  },
-  {
-    "Município": "Nossa Senhora Do Socorro",
-    "Combustível": "GNV",
-    "Data": "2025-03-13",
-    "Preço": 4.9
-  },
-  {
-    "Município": "Nossa Senhora Do Socorro",
     "Combustível": "Gasolina",
     "Data": "2025-03-13",
     "Preço": 6.62
@@ -832,6 +820,18 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-13",
     "Preço": 6.67
+  },
+  {
+    "Município": "Nossa Senhora Do Socorro",
+    "Combustível": "GLP",
+    "Data": "2025-03-13",
+    "Preço": 99.99
+  },
+  {
+    "Município": "Nossa Senhora Do Socorro",
+    "Combustível": "GNV",
+    "Data": "2025-03-13",
+    "Preço": 4.9
   },
   {
     "Município": "Paulo Afonso",
@@ -853,12 +853,6 @@
   },
   {
     "Município": "Paulo Afonso",
-    "Combustível": "GLP",
-    "Data": "2025-03-10",
-    "Preço": 100
-  },
-  {
-    "Município": "Paulo Afonso",
     "Combustível": "Gasolina",
     "Data": "2025-03-13",
     "Preço": 6.15
@@ -868,6 +862,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-13",
     "Preço": 6.25
+  },
+  {
+    "Município": "Paulo Afonso",
+    "Combustível": "GLP",
+    "Data": "2025-03-10",
+    "Preço": 100
   },
   {
     "Município": "Pocoes",
@@ -889,12 +889,6 @@
   },
   {
     "Município": "Pocoes",
-    "Combustível": "GLP",
-    "Data": "2025-03-13",
-    "Preço": 118
-  },
-  {
-    "Município": "Pocoes",
     "Combustível": "Gasolina",
     "Data": "2025-03-13",
     "Preço": 6.28
@@ -904,6 +898,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-13",
     "Preço": 6.28
+  },
+  {
+    "Município": "Pocoes",
+    "Combustível": "GLP",
+    "Data": "2025-03-13",
+    "Preço": 118
   },
   {
     "Município": "Porto Seguro",
@@ -925,12 +925,6 @@
   },
   {
     "Município": "Porto Seguro",
-    "Combustível": "GLP",
-    "Data": "2025-03-06",
-    "Preço": 105
-  },
-  {
-    "Município": "Porto Seguro",
     "Combustível": "Gasolina",
     "Data": "2025-03-06",
     "Preço": 6.9
@@ -940,6 +934,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-06",
     "Preço": 7.05
+  },
+  {
+    "Município": "Porto Seguro",
+    "Combustível": "GLP",
+    "Data": "2025-03-06",
+    "Preço": 105
   },
   {
     "Município": "Rio Largo",
@@ -961,18 +961,6 @@
   },
   {
     "Município": "Rio Largo",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 95.88
-  },
-  {
-    "Município": "Rio Largo",
-    "Combustível": "GNV",
-    "Data": "2025-03-12",
-    "Preço": 4.89
-  },
-  {
-    "Município": "Rio Largo",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 6.09
@@ -982,6 +970,18 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.29
+  },
+  {
+    "Município": "Rio Largo",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 95.88
+  },
+  {
+    "Município": "Rio Largo",
+    "Combustível": "GNV",
+    "Data": "2025-03-12",
+    "Preço": 4.89
   },
   {
     "Município": "Salvador",
@@ -1003,18 +1003,6 @@
   },
   {
     "Município": "Salvador",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 125
-  },
-  {
-    "Município": "Salvador",
-    "Combustível": "GNV",
-    "Data": "2025-03-12",
-    "Preço": 4.29
-  },
-  {
-    "Município": "Salvador",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 6.49
@@ -1024,6 +1012,18 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.69
+  },
+  {
+    "Município": "Salvador",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 125
+  },
+  {
+    "Município": "Salvador",
+    "Combustível": "GNV",
+    "Data": "2025-03-12",
+    "Preço": 4.29
   },
   {
     "Município": "Santo Antonio De Jesus",
@@ -1045,12 +1045,6 @@
   },
   {
     "Município": "Santo Antonio De Jesus",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 115
-  },
-  {
-    "Município": "Santo Antonio De Jesus",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 6.54
@@ -1060,6 +1054,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.54
+  },
+  {
+    "Município": "Santo Antonio De Jesus",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 115
   },
   {
     "Município": "Senhor Do Bonfim",
@@ -1081,12 +1081,6 @@
   },
   {
     "Município": "Senhor Do Bonfim",
-    "Combustível": "GLP",
-    "Data": "2025-03-11",
-    "Preço": 125
-  },
-  {
-    "Município": "Senhor Do Bonfim",
     "Combustível": "Gasolina",
     "Data": "2025-03-11",
     "Preço": 6.5
@@ -1096,6 +1090,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-11",
     "Preço": 6.5
+  },
+  {
+    "Município": "Senhor Do Bonfim",
+    "Combustível": "GLP",
+    "Data": "2025-03-11",
+    "Preço": 125
   },
   {
     "Município": "Serrinha",
@@ -1117,12 +1117,6 @@
   },
   {
     "Município": "Serrinha",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 130
-  },
-  {
-    "Município": "Serrinha",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 5.98
@@ -1132,6 +1126,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 5.98
+  },
+  {
+    "Município": "Serrinha",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 130
   },
   {
     "Município": "Teixeira De Freitas",
@@ -1153,12 +1153,6 @@
   },
   {
     "Município": "Teixeira De Freitas",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 89.99
-  },
-  {
-    "Município": "Teixeira De Freitas",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 6.49
@@ -1168,6 +1162,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.86
+  },
+  {
+    "Município": "Teixeira De Freitas",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 89.99
   },
   {
     "Município": "Valenca",
@@ -1189,12 +1189,6 @@
   },
   {
     "Município": "Valenca",
-    "Combustível": "GLP",
-    "Data": "2025-03-12",
-    "Preço": 130
-  },
-  {
-    "Município": "Valenca",
     "Combustível": "Gasolina",
     "Data": "2025-03-12",
     "Preço": 6.59
@@ -1204,6 +1198,12 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-12",
     "Preço": 6.59
+  },
+  {
+    "Município": "Valenca",
+    "Combustível": "GLP",
+    "Data": "2025-03-12",
+    "Preço": 130
   },
   {
     "Município": "Vitoria Da Conquista",
@@ -1225,18 +1225,6 @@
   },
   {
     "Município": "Vitoria Da Conquista",
-    "Combustível": "GLP",
-    "Data": "2025-03-10",
-    "Preço": 118
-  },
-  {
-    "Município": "Vitoria Da Conquista",
-    "Combustível": "GNV",
-    "Data": "2025-03-10",
-    "Preço": 5.59
-  },
-  {
-    "Município": "Vitoria Da Conquista",
     "Combustível": "Gasolina",
     "Data": "2025-03-10",
     "Preço": 6.54
@@ -1246,5 +1234,17 @@
     "Combustível": "Gasolina aditivada",
     "Data": "2025-03-10",
     "Preço": 6.54
+  },
+  {
+    "Município": "Vitoria Da Conquista",
+    "Combustível": "GLP",
+    "Data": "2025-03-10",
+    "Preço": 118
+  },
+  {
+    "Município": "Vitoria Da Conquista",
+    "Combustível": "GNV",
+    "Data": "2025-03-10",
+    "Preço": 5.59
   }
 ]
