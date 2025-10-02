@@ -1,1286 +1,596 @@
 [
   {
-    "Município": "Alagoinhas",
+    "Município": "Aracaju",
     "Combustível": "Diesel",
-    "Data": "2025-07-03",
-    "Preço": 5.47
-  },
-  {
-    "Município": "Alagoinhas",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-03",
-    "Preço": 5.57
-  },
-  {
-    "Município": "Alagoinhas",
-    "Combustível": "Etanol",
-    "Data": "2025-07-03",
-    "Preço": 4.61
-  },
-  {
-    "Município": "Alagoinhas",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-03",
-    "Preço": 6.21
-  },
-  {
-    "Município": "Alagoinhas",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-03",
-    "Preço": 6.22
-  },
-  {
-    "Município": "Alagoinhas",
-    "Combustível": "GLP",
-    "Data": "2025-06-10",
-    "Preço": 114.99
-  },
-  {
-    "Município": "Alagoinhas",
-    "Combustível": "GNV",
-    "Data": "2025-07-03",
-    "Preço": 4.38
+    "Data": "2025-09-22",
+    "Preço": 5.76
   },
   {
     "Município": "Aracaju",
     "Combustível": "Diesel S10",
-    "Data": "2025-06-30",
-    "Preço": 5.64
+    "Data": "2025-09-22",
+    "Preço": 5.76
   },
   {
     "Município": "Aracaju",
     "Combustível": "Etanol",
-    "Data": "2025-06-30",
+    "Data": "2025-09-22",
     "Preço": 4.9
   },
   {
     "Município": "Aracaju",
     "Combustível": "Gasolina",
-    "Data": "2025-06-30",
+    "Data": "2025-09-22",
     "Preço": 6.62
   },
   {
     "Município": "Aracaju",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-30",
+    "Data": "2025-09-22",
     "Preço": 6.62
   },
   {
     "Município": "Aracaju",
     "Combustível": "GLP",
-    "Data": "2025-06-30",
-    "Preço": 96
+    "Data": "2025-09-22",
+    "Preço": 96.9
   },
   {
     "Município": "Aracaju",
     "Combustível": "GNV",
-    "Data": "2025-06-30",
-    "Preço": 4.99
+    "Data": "2025-09-22",
+    "Preço": 4.69
   },
   {
     "Município": "Arapiraca",
     "Combustível": "Diesel",
-    "Data": "2025-07-01",
-    "Preço": 6.09
-  },
-  {
-    "Município": "Arapiraca",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-01",
-    "Preço": 5.76
-  },
-  {
-    "Município": "Arapiraca",
-    "Combustível": "Etanol",
-    "Data": "2025-07-01",
-    "Preço": 4.79
-  },
-  {
-    "Município": "Arapiraca",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-01",
-    "Preço": 5.88
-  },
-  {
-    "Município": "Arapiraca",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-01",
-    "Preço": 5.99
-  },
-  {
-    "Município": "Arapiraca",
-    "Combustível": "GLP",
-    "Data": "2025-06-09",
-    "Preço": 96.99
-  },
-  {
-    "Município": "Arapiraca",
-    "Combustível": "GNV",
-    "Data": "2025-07-01",
-    "Preço": 4.89
-  },
-  {
-    "Município": "Barreiras",
-    "Combustível": "Diesel",
-    "Data": "2025-07-04",
+    "Data": "2025-09-24",
     "Preço": 6.19
   },
   {
+    "Município": "Arapiraca",
+    "Combustível": "Diesel S10",
+    "Data": "2025-09-24",
+    "Preço": 5.79
+  },
+  {
+    "Município": "Arapiraca",
+    "Combustível": "Etanol",
+    "Data": "2025-09-24",
+    "Preço": 4.98
+  },
+  {
+    "Município": "Arapiraca",
+    "Combustível": "Gasolina",
+    "Data": "2025-09-24",
+    "Preço": 6.17
+  },
+  {
+    "Município": "Arapiraca",
+    "Combustível": "Gasolina aditivada",
+    "Data": "2025-09-24",
+    "Preço": 6.19
+  },
+  {
+    "Município": "Arapiraca",
+    "Combustível": "GLP",
+    "Data": "2025-09-24",
+    "Preço": 94.99
+  },
+  {
+    "Município": "Arapiraca",
+    "Combustível": "GNV",
+    "Data": "2025-09-24",
+    "Preço": 4.64
+  },
+  {
+    "Município": "Barreiras",
+    "Combustível": "Diesel",
+    "Data": "2025-09-25",
+    "Preço": 6.29
+  },
+  {
     "Município": "Barreiras",
     "Combustível": "Diesel S10",
-    "Data": "2025-07-04",
+    "Data": "2025-09-24",
+    "Preço": 5.85
+  },
+  {
+    "Município": "Barreiras",
+    "Combustível": "Etanol",
+    "Data": "2025-09-24",
+    "Preço": 4.19
+  },
+  {
+    "Município": "Barreiras",
+    "Combustível": "Gasolina",
+    "Data": "2025-09-25",
     "Preço": 6.49
   },
   {
     "Município": "Barreiras",
-    "Combustível": "Etanol",
-    "Data": "2025-07-04",
-    "Preço": 4.25
-  },
-  {
-    "Município": "Barreiras",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-04",
-    "Preço": 6.59
-  },
-  {
-    "Município": "Barreiras",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-04",
-    "Preço": 6.59
+    "Data": "2025-09-25",
+    "Preço": 6.69
   },
   {
     "Município": "Barreiras",
     "Combustível": "GLP",
-    "Data": "2025-06-12",
+    "Data": "2025-09-25",
     "Preço": 125
   },
   {
-    "Município": "Brumado",
-    "Combustível": "Diesel",
-    "Data": "2025-07-04",
-    "Preço": 5.89
-  },
-  {
-    "Município": "Brumado",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-04",
-    "Preço": 5.99
-  },
-  {
-    "Município": "Brumado",
-    "Combustível": "Etanol",
-    "Data": "2025-07-04",
-    "Preço": 4.96
-  },
-  {
-    "Município": "Brumado",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-04",
-    "Preço": 6.39
-  },
-  {
-    "Município": "Brumado",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-04",
-    "Preço": 6.46
-  },
-  {
-    "Município": "Brumado",
-    "Combustível": "GLP",
-    "Data": "2025-06-09",
-    "Preço": 115
-  },
-  {
-    "Município": "Caetite",
-    "Combustível": "Diesel",
-    "Data": "2025-07-03",
-    "Preço": 6.28
-  },
-  {
-    "Município": "Caetite",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-03",
-    "Preço": 6.38
-  },
-  {
-    "Município": "Caetite",
-    "Combustível": "Etanol",
-    "Data": "2025-07-03",
-    "Preço": 4.88
-  },
-  {
-    "Município": "Caetite",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-03",
-    "Preço": 6.64
-  },
-  {
-    "Município": "Caetite",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-03",
-    "Preço": 6.69
-  },
-  {
-    "Município": "Caetite",
-    "Combustível": "GLP",
-    "Data": "2025-06-11",
-    "Preço": 110
-  },
-  {
-    "Município": "Delmiro Gouveia",
-    "Combustível": "Diesel",
-    "Data": "2025-07-01",
-    "Preço": 6.69
-  },
-  {
-    "Município": "Delmiro Gouveia",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-01",
-    "Preço": 6.79
-  },
-  {
-    "Município": "Delmiro Gouveia",
-    "Combustível": "Etanol",
-    "Data": "2025-07-01",
-    "Preço": 4.98
-  },
-  {
-    "Município": "Delmiro Gouveia",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-01",
-    "Preço": 6.89
-  },
-  {
-    "Município": "Delmiro Gouveia",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-01",
-    "Preço": 6.89
-  },
-  {
-    "Município": "Delmiro Gouveia",
-    "Combustível": "GLP",
-    "Data": "2025-06-09",
-    "Preço": 105
-  },
-  {
-    "Município": "Eunapolis",
-    "Combustível": "Diesel",
-    "Data": "2025-07-03",
-    "Preço": 6.26
-  },
-  {
-    "Município": "Eunapolis",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-03",
-    "Preço": 6.36
-  },
-  {
-    "Município": "Eunapolis",
-    "Combustível": "Etanol",
-    "Data": "2025-07-03",
-    "Preço": 4.85
-  },
-  {
-    "Município": "Eunapolis",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-03",
-    "Preço": 6.46
-  },
-  {
-    "Município": "Eunapolis",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-03",
-    "Preço": 6.46
-  },
-  {
-    "Município": "Eunapolis",
-    "Combustível": "GLP",
-    "Data": "2025-06-12",
-    "Preço": 100
-  },
-  {
     "Município": "Feira De Santana",
     "Combustível": "Diesel",
-    "Data": "2025-07-03",
-    "Preço": 5.45
+    "Data": "2025-09-25",
+    "Preço": 5.69
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "Diesel S10",
-    "Data": "2025-07-03",
-    "Preço": 5.55
+    "Data": "2025-09-25",
+    "Preço": 5.73
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "Etanol",
-    "Data": "2025-07-03",
-    "Preço": 4.26
+    "Data": "2025-09-25",
+    "Preço": 4.71
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "Gasolina",
-    "Data": "2025-07-03",
-    "Preço": 5.89
+    "Data": "2025-09-25",
+    "Preço": 6.13
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-03",
-    "Preço": 5.89
+    "Data": "2025-09-25",
+    "Preço": 6.13
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "GLP",
-    "Data": "2025-07-03",
+    "Data": "2025-09-25",
     "Preço": 100
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "GNV",
-    "Data": "2025-07-03",
+    "Data": "2025-09-25",
     "Preço": 4.49
-  },
-  {
-    "Município": "Guanambi",
-    "Combustível": "Diesel",
-    "Data": "2025-06-30",
-    "Preço": 5.84
-  },
-  {
-    "Município": "Guanambi",
-    "Combustível": "Diesel S10",
-    "Data": "2025-06-30",
-    "Preço": 5.95
-  },
-  {
-    "Município": "Guanambi",
-    "Combustível": "Etanol",
-    "Data": "2025-06-30",
-    "Preço": 4.59
-  },
-  {
-    "Município": "Guanambi",
-    "Combustível": "Gasolina",
-    "Data": "2025-06-30",
-    "Preço": 6.2
-  },
-  {
-    "Município": "Guanambi",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-30",
-    "Preço": 6.49
-  },
-  {
-    "Município": "Guanambi",
-    "Combustível": "GLP",
-    "Data": "2025-06-10",
-    "Preço": 105
   },
   {
     "Município": "Ilheus",
     "Combustível": "Diesel",
-    "Data": "2025-06-30",
+    "Data": "2025-09-23",
     "Preço": 6.75
   },
   {
     "Município": "Ilheus",
     "Combustível": "Diesel S10",
-    "Data": "2025-06-30",
-    "Preço": 6.78
+    "Data": "2025-09-23",
+    "Preço": 6.79
   },
   {
     "Município": "Ilheus",
     "Combustível": "Etanol",
-    "Data": "2025-06-30",
-    "Preço": 4.76
+    "Data": "2025-09-23",
+    "Preço": 4.64
   },
   {
     "Município": "Ilheus",
     "Combustível": "Gasolina",
-    "Data": "2025-06-30",
-    "Preço": 6.53
+    "Data": "2025-09-23",
+    "Preço": 6.4
   },
   {
     "Município": "Ilheus",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-30",
-    "Preço": 6.53
+    "Data": "2025-09-23",
+    "Preço": 6.42
   },
   {
     "Município": "Ilheus",
     "Combustível": "GLP",
-    "Data": "2025-06-09",
-    "Preço": 130
+    "Data": "2025-09-24",
+    "Preço": 150
   },
   {
     "Município": "Ilheus",
     "Combustível": "GNV",
-    "Data": "2025-06-30",
-    "Preço": 4.83
+    "Data": "2025-09-23",
+    "Preço": 4.73
   },
   {
-    "Município": "Ipira",
+    "Município": "Itamaraju",
     "Combustível": "Diesel",
-    "Data": "2025-07-04",
-    "Preço": 5.75
-  },
-  {
-    "Município": "Ipira",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-04",
-    "Preço": 5.85
-  },
-  {
-    "Município": "Ipira",
-    "Combustível": "Etanol",
-    "Data": "2025-07-04",
-    "Preço": 4.43
-  },
-  {
-    "Município": "Ipira",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-04",
-    "Preço": 5.99
-  },
-  {
-    "Município": "Ipira",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-04",
-    "Preço": 5.99
-  },
-  {
-    "Município": "Ipira",
-    "Combustível": "GLP",
-    "Data": "2025-06-12",
-    "Preço": 115
-  },
-  {
-    "Município": "Irece",
-    "Combustível": "Diesel",
-    "Data": "2025-07-03",
-    "Preço": 5.64
-  },
-  {
-    "Município": "Irece",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-03",
+    "Data": "2025-09-24",
     "Preço": 5.79
   },
   {
-    "Município": "Irece",
-    "Combustível": "Etanol",
-    "Data": "2025-07-03",
-    "Preço": 4.45
-  },
-  {
-    "Município": "Irece",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-03",
-    "Preço": 5.86
-  },
-  {
-    "Município": "Irece",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-03",
-    "Preço": 5.86
-  },
-  {
-    "Município": "Irece",
-    "Combustível": "GLP",
-    "Data": "2025-06-12",
-    "Preço": 120
-  },
-  {
-    "Município": "Itabaiana",
-    "Combustível": "Diesel",
-    "Data": "2025-07-01",
-    "Preço": 5.47
-  },
-  {
-    "Município": "Itabaiana",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-01",
-    "Preço": 5.64
-  },
-  {
-    "Município": "Itabaiana",
-    "Combustível": "Etanol",
-    "Data": "2025-07-01",
-    "Preço": 4.8
-  },
-  {
-    "Município": "Itabaiana",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-01",
-    "Preço": 6.51
-  },
-  {
-    "Município": "Itabaiana",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-01",
-    "Preço": 6.51
-  },
-  {
-    "Município": "Itabaiana",
-    "Combustível": "GLP",
-    "Data": "2025-06-11",
-    "Preço": 105
-  },
-  {
-    "Município": "Itabuna",
-    "Combustível": "Diesel",
-    "Data": "2025-07-03",
-    "Preço": 5.65
-  },
-  {
-    "Município": "Itabuna",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-03",
-    "Preço": 5.74
-  },
-  {
-    "Município": "Itabuna",
-    "Combustível": "Etanol",
-    "Data": "2025-07-03",
-    "Preço": 4.69
-  },
-  {
-    "Município": "Itabuna",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-03",
-    "Preço": 5.86
-  },
-  {
-    "Município": "Itabuna",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-03",
-    "Preço": 5.9
-  },
-  {
-    "Município": "Itabuna",
-    "Combustível": "GLP",
-    "Data": "2025-06-12",
-    "Preço": 125
-  },
-  {
-    "Município": "Itabuna",
-    "Combustível": "GNV",
-    "Data": "2025-07-03",
-    "Preço": 4.99
-  },
-  {
-    "Município": "Itamaraju",
-    "Combustível": "Diesel",
-    "Data": "2025-07-01",
-    "Preço": 5.74
-  },
-  {
     "Município": "Itamaraju",
     "Combustível": "Diesel S10",
-    "Data": "2025-07-01",
-    "Preço": 5.84
+    "Data": "2025-09-24",
+    "Preço": 5.89
   },
   {
     "Município": "Itamaraju",
     "Combustível": "Etanol",
-    "Data": "2025-07-01",
+    "Data": "2025-09-24",
     "Preço": 4.69
   },
   {
     "Município": "Itamaraju",
     "Combustível": "Gasolina",
-    "Data": "2025-07-01",
+    "Data": "2025-09-24",
     "Preço": 6.74
   },
   {
     "Município": "Itamaraju",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-01",
+    "Data": "2025-09-24",
     "Preço": 6.79
   },
   {
     "Município": "Itamaraju",
     "Combustível": "GLP",
-    "Data": "2025-06-11",
-    "Preço": 95
-  },
-  {
-    "Município": "Jaguaquara",
-    "Combustível": "Diesel",
-    "Data": "2025-06-12",
-    "Preço": 5.59
-  },
-  {
-    "Município": "Jaguaquara",
-    "Combustível": "Diesel S10",
-    "Data": "2025-06-26",
-    "Preço": 6.15
-  },
-  {
-    "Município": "Jaguaquara",
-    "Combustível": "Etanol",
-    "Data": "2025-06-26",
-    "Preço": 4.6
-  },
-  {
-    "Município": "Jaguaquara",
-    "Combustível": "Gasolina",
-    "Data": "2025-06-26",
-    "Preço": 6.19
-  },
-  {
-    "Município": "Jaguaquara",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-12",
-    "Preço": 6.49
-  },
-  {
-    "Município": "Jaguaquara",
-    "Combustível": "GLP",
-    "Data": "2025-06-12",
-    "Preço": 120
+    "Data": "2025-09-24",
+    "Preço": 105
   },
   {
     "Município": "Jequie",
     "Combustível": "Diesel",
-    "Data": "2025-06-30",
+    "Data": "2025-09-22",
     "Preço": 5.9
   },
   {
     "Município": "Jequie",
     "Combustível": "Diesel S10",
-    "Data": "2025-06-30",
+    "Data": "2025-09-22",
     "Preço": 6.1
   },
   {
     "Município": "Jequie",
     "Combustível": "Etanol",
-    "Data": "2025-06-30",
-    "Preço": 4.8
+    "Data": "2025-09-22",
+    "Preço": 4.85
   },
   {
     "Município": "Jequie",
     "Combustível": "Gasolina",
-    "Data": "2025-06-30",
+    "Data": "2025-09-22",
     "Preço": 6.55
   },
   {
     "Município": "Jequie",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-30",
+    "Data": "2025-09-22",
     "Preço": 6.55
   },
   {
     "Município": "Jequie",
     "Combustível": "GLP",
-    "Data": "2025-06-10",
-    "Preço": 100
-  },
-  {
-    "Município": "Juazeiro",
-    "Combustível": "Diesel",
-    "Data": "2025-07-03",
-    "Preço": 5.63
+    "Data": "2025-09-22",
+    "Preço": 99.99
   },
   {
     "Município": "Juazeiro",
     "Combustível": "Diesel S10",
-    "Data": "2025-07-03",
-    "Preço": 5.7
-  },
-  {
-    "Município": "Juazeiro",
-    "Combustível": "Etanol",
-    "Data": "2025-07-03",
-    "Preço": 4.99
-  },
-  {
-    "Município": "Juazeiro",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-03",
-    "Preço": 6.34
-  },
-  {
-    "Município": "Juazeiro",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-03",
-    "Preço": 6.71
-  },
-  {
-    "Município": "Juazeiro",
-    "Combustível": "GLP",
-    "Data": "2025-06-12",
-    "Preço": 95
-  },
-  {
-    "Município": "Lagarto",
-    "Combustível": "Diesel",
-    "Data": "2025-07-04",
-    "Preço": 5.47
-  },
-  {
-    "Município": "Lagarto",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-04",
-    "Preço": 5.64
-  },
-  {
-    "Município": "Lagarto",
-    "Combustível": "Etanol",
-    "Data": "2025-07-04",
-    "Preço": 4.75
-  },
-  {
-    "Município": "Lagarto",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-04",
-    "Preço": 6.39
-  },
-  {
-    "Município": "Lagarto",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-04",
-    "Preço": 6.39
-  },
-  {
-    "Município": "Livramento De Nossa Senhora",
-    "Combustível": "Diesel",
-    "Data": "2025-07-03",
-    "Preço": 6.09
-  },
-  {
-    "Município": "Livramento De Nossa Senhora",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-03",
-    "Preço": 6.19
-  },
-  {
-    "Município": "Livramento De Nossa Senhora",
-    "Combustível": "Etanol",
-    "Data": "2025-07-03",
-    "Preço": 5
-  },
-  {
-    "Município": "Livramento De Nossa Senhora",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-03",
-    "Preço": 6.84
-  },
-  {
-    "Município": "Livramento De Nossa Senhora",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-03",
-    "Preço": 6.84
-  },
-  {
-    "Município": "Livramento De Nossa Senhora",
-    "Combustível": "GLP",
-    "Data": "2025-06-12",
-    "Preço": 115
-  },
-  {
-    "Município": "Maceio",
-    "Combustível": "Diesel",
-    "Data": "2025-06-30",
-    "Preço": 5.59
-  },
-  {
-    "Município": "Maceio",
-    "Combustível": "Diesel S10",
-    "Data": "2025-06-30",
-    "Preço": 5.59
-  },
-  {
-    "Município": "Maceio",
-    "Combustível": "Etanol",
-    "Data": "2025-07-02",
-    "Preço": 5.19
-  },
-  {
-    "Município": "Maceio",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-02",
-    "Preço": 6.39
-  },
-  {
-    "Município": "Maceio",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-02",
-    "Preço": 6.59
-  },
-  {
-    "Município": "Maceio",
-    "Combustível": "GLP",
-    "Data": "2025-06-30",
-    "Preço": 84.99
-  },
-  {
-    "Município": "Maceio",
-    "Combustível": "GNV",
-    "Data": "2025-06-30",
-    "Preço": 4.79
-  },
-  {
-    "Município": "Nossa Senhora Do Socorro",
-    "Combustível": "Diesel",
-    "Data": "2025-07-04",
-    "Preço": 6.25
-  },
-  {
-    "Município": "Nossa Senhora Do Socorro",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-04",
+    "Data": "2025-09-22",
     "Preço": 5.99
   },
   {
-    "Município": "Nossa Senhora Do Socorro",
+    "Município": "Juazeiro",
     "Combustível": "Etanol",
-    "Data": "2025-07-04",
-    "Preço": 4.95
+    "Data": "2025-09-22",
+    "Preço": 5.19
   },
   {
-    "Município": "Nossa Senhora Do Socorro",
+    "Município": "Juazeiro",
     "Combustível": "Gasolina",
-    "Data": "2025-07-04",
-    "Preço": 6.64
+    "Data": "2025-09-22",
+    "Preço": 6.61
   },
   {
-    "Município": "Nossa Senhora Do Socorro",
+    "Município": "Juazeiro",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-04",
-    "Preço": 6.67
+    "Data": "2025-09-22",
+    "Preço": 6.79
   },
   {
-    "Município": "Nossa Senhora Do Socorro",
-    "Combustível": "GLP",
-    "Data": "2025-06-10",
-    "Preço": 105
-  },
-  {
-    "Município": "Nossa Senhora Do Socorro",
-    "Combustível": "GNV",
-    "Data": "2025-07-04",
-    "Preço": 4.99
-  },
-  {
-    "Município": "Palmeira Dos Indios",
+    "Município": "Maceio",
     "Combustível": "Diesel",
-    "Data": "2025-06-12",
-    "Preço": 6.09
+    "Data": "2025-09-24",
+    "Preço": 5.69
   },
   {
-    "Município": "Palmeira Dos Indios",
+    "Município": "Maceio",
     "Combustível": "Diesel S10",
-    "Data": "2025-06-12",
-    "Preço": 6.09
+    "Data": "2025-09-24",
+    "Preço": 5.48
   },
   {
-    "Município": "Palmeira Dos Indios",
+    "Município": "Maceio",
     "Combustível": "Etanol",
-    "Data": "2025-06-12",
-    "Preço": 4.99
+    "Data": "2025-09-24",
+    "Preço": 4.39
   },
   {
-    "Município": "Palmeira Dos Indios",
+    "Município": "Maceio",
     "Combustível": "Gasolina",
-    "Data": "2025-06-12",
-    "Preço": 6.09
+    "Data": "2025-09-24",
+    "Preço": 5.37
   },
   {
-    "Município": "Palmeira Dos Indios",
+    "Município": "Maceio",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-12",
-    "Preço": 6.43
+    "Data": "2025-09-24",
+    "Preço": 5.37
   },
   {
-    "Município": "Palmeira Dos Indios",
+    "Município": "Maceio",
     "Combustível": "GLP",
-    "Data": "2025-06-12",
-    "Preço": 97
+    "Data": "2025-09-25",
+    "Preço": 100
   },
   {
-    "Município": "Palmeira Dos Indios",
+    "Município": "Maceio",
     "Combustível": "GNV",
-    "Data": "2025-06-12",
-    "Preço": 5.09
+    "Data": "2025-09-24",
+    "Preço": 4.59
   },
   {
     "Município": "Paulo Afonso",
     "Combustível": "Diesel",
-    "Data": "2025-07-04",
+    "Data": "2025-09-24",
+    "Preço": 6.02
+  },
+  {
+    "Município": "Paulo Afonso",
+    "Combustível": "Diesel S10",
+    "Data": "2025-09-24",
     "Preço": 6.07
   },
   {
     "Município": "Paulo Afonso",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-04",
-    "Preço": 6.14
-  },
-  {
-    "Município": "Paulo Afonso",
     "Combustível": "Etanol",
-    "Data": "2025-07-04",
-    "Preço": 4.81
+    "Data": "2025-09-24",
+    "Preço": 4.87
   },
   {
     "Município": "Paulo Afonso",
     "Combustível": "Gasolina",
-    "Data": "2025-07-04",
-    "Preço": 5.86
+    "Data": "2025-09-24",
+    "Preço": 6.07
   },
   {
     "Município": "Paulo Afonso",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-04",
-    "Preço": 5.9
-  },
-  {
-    "Município": "Paulo Afonso",
-    "Combustível": "GLP",
-    "Data": "2025-06-11",
-    "Preço": 100
+    "Data": "2025-09-24",
+    "Preço": 6.07
   },
   {
     "Município": "Pocoes",
     "Combustível": "Diesel",
-    "Data": "2025-06-30",
+    "Data": "2025-09-26",
+    "Preço": 5.59
+  },
+  {
+    "Município": "Pocoes",
+    "Combustível": "Diesel S10",
+    "Data": "2025-09-26",
     "Preço": 5.68
   },
   {
     "Município": "Pocoes",
-    "Combustível": "Diesel S10",
-    "Data": "2025-06-30",
-    "Preço": 5.74
-  },
-  {
-    "Município": "Pocoes",
     "Combustível": "Etanol",
-    "Data": "2025-07-04",
-    "Preço": 4.86
+    "Data": "2025-09-26",
+    "Preço": 4.48
   },
   {
     "Município": "Pocoes",
     "Combustível": "Gasolina",
-    "Data": "2025-07-04",
-    "Preço": 6.41
+    "Data": "2025-09-26",
+    "Preço": 5.99
   },
   {
     "Município": "Pocoes",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-30",
-    "Preço": 6.27
-  },
-  {
-    "Município": "Pocoes",
-    "Combustível": "GLP",
-    "Data": "2025-06-11",
-    "Preço": 103
+    "Data": "2025-09-26",
+    "Preço": 5.99
   },
   {
     "Município": "Rio Largo",
     "Combustível": "Diesel",
-    "Data": "2025-06-11",
-    "Preço": 5.74
-  },
-  {
-    "Município": "Rio Largo",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-03",
+    "Data": "2025-09-25",
     "Preço": 5.69
   },
   {
     "Município": "Rio Largo",
+    "Combustível": "Diesel S10",
+    "Data": "2025-09-25",
+    "Preço": 5.68
+  },
+  {
+    "Município": "Rio Largo",
     "Combustível": "Etanol",
-    "Data": "2025-07-03",
-    "Preço": 4.99
+    "Data": "2025-09-25",
+    "Preço": 4.79
   },
   {
     "Município": "Rio Largo",
     "Combustível": "Gasolina",
-    "Data": "2025-07-03",
-    "Preço": 6.09
+    "Data": "2025-09-25",
+    "Preço": 5.49
   },
   {
     "Município": "Rio Largo",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-03",
-    "Preço": 6.45
-  },
-  {
-    "Município": "Rio Largo",
-    "Combustível": "GLP",
-    "Data": "2025-06-11",
-    "Preço": 95
+    "Data": "2025-09-25",
+    "Preço": 5.99
   },
   {
     "Município": "Rio Largo",
     "Combustível": "GNV",
-    "Data": "2025-07-03",
-    "Preço": 4.79
+    "Data": "2025-09-25",
+    "Preço": 4.59
   },
   {
     "Município": "Salvador",
     "Combustível": "Diesel",
-    "Data": "2025-07-02",
+    "Data": "2025-09-23",
     "Preço": 5.89
   },
   {
     "Município": "Salvador",
     "Combustível": "Diesel S10",
-    "Data": "2025-07-02",
+    "Data": "2025-09-23",
     "Preço": 5.99
   },
   {
     "Município": "Salvador",
     "Combustível": "Etanol",
-    "Data": "2025-07-02",
-    "Preço": 4.39
+    "Data": "2025-09-24",
+    "Preço": 4.69
   },
   {
     "Município": "Salvador",
     "Combustível": "Gasolina",
-    "Data": "2025-07-02",
-    "Preço": 5.99
+    "Data": "2025-09-24",
+    "Preço": 6.16
   },
   {
     "Município": "Salvador",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-02",
-    "Preço": 6.19
+    "Data": "2025-09-24",
+    "Preço": 6.41
   },
   {
     "Município": "Salvador",
     "Combustível": "GLP",
-    "Data": "2025-07-02",
+    "Data": "2025-09-24",
     "Preço": 110
   },
   {
     "Município": "Salvador",
     "Combustível": "GNV",
-    "Data": "2025-07-02",
+    "Data": "2025-09-22",
     "Preço": 3.99
   },
   {
-    "Município": "Santo Antonio De Jesus",
+    "Município": "Serrinha",
     "Combustível": "Diesel",
-    "Data": "2025-07-03",
+    "Data": "2025-09-23",
     "Preço": 5.59
   },
   {
-    "Município": "Santo Antonio De Jesus",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-03",
-    "Preço": 5.72
-  },
-  {
-    "Município": "Santo Antonio De Jesus",
-    "Combustível": "Etanol",
-    "Data": "2025-07-03",
-    "Preço": 4.99
-  },
-  {
-    "Município": "Santo Antonio De Jesus",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-03",
-    "Preço": 6.64
-  },
-  {
-    "Município": "Santo Antonio De Jesus",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-03",
-    "Preço": 6.64
-  },
-  {
-    "Município": "Santo Antonio De Jesus",
-    "Combustível": "GLP",
-    "Data": "2025-06-10",
-    "Preço": 105
-  },
-  {
-    "Município": "Senhor Do Bonfim",
-    "Combustível": "Diesel",
-    "Data": "2025-06-30",
-    "Preço": 5.75
-  },
-  {
-    "Município": "Senhor Do Bonfim",
-    "Combustível": "Diesel S10",
-    "Data": "2025-06-30",
-    "Preço": 5.85
-  },
-  {
-    "Município": "Senhor Do Bonfim",
-    "Combustível": "Etanol",
-    "Data": "2025-06-30",
-    "Preço": 4.51
-  },
-  {
-    "Município": "Senhor Do Bonfim",
-    "Combustível": "Gasolina",
-    "Data": "2025-06-30",
-    "Preço": 6.19
-  },
-  {
-    "Município": "Senhor Do Bonfim",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-30",
-    "Preço": 6.5
-  },
-  {
-    "Município": "Senhor Do Bonfim",
-    "Combustível": "GLP",
-    "Data": "2025-06-30",
-    "Preço": 120
-  },
-  {
-    "Município": "Serrinha",
-    "Combustível": "Diesel",
-    "Data": "2025-06-30",
-    "Preço": 5.68
-  },
-  {
     "Município": "Serrinha",
     "Combustível": "Diesel S10",
-    "Data": "2025-06-30",
+    "Data": "2025-09-23",
     "Preço": 5.69
   },
   {
     "Município": "Serrinha",
     "Combustível": "Etanol",
-    "Data": "2025-06-30",
-    "Preço": 4.52
+    "Data": "2025-09-23",
+    "Preço": 4.37
   },
   {
     "Município": "Serrinha",
     "Combustível": "Gasolina",
-    "Data": "2025-06-30",
+    "Data": "2025-09-23",
     "Preço": 5.98
   },
   {
     "Município": "Serrinha",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-30",
+    "Data": "2025-09-23",
     "Preço": 5.98
   },
   {
     "Município": "Serrinha",
     "Combustível": "GLP",
-    "Data": "2025-06-11",
-    "Preço": 120
-  },
-  {
-    "Município": "Teixeira De Freitas",
-    "Combustível": "Diesel",
-    "Data": "2025-07-01",
-    "Preço": 5.58
-  },
-  {
-    "Município": "Teixeira De Freitas",
-    "Combustível": "Diesel S10",
-    "Data": "2025-07-01",
-    "Preço": 5.68
-  },
-  {
-    "Município": "Teixeira De Freitas",
-    "Combustível": "Etanol",
-    "Data": "2025-07-01",
-    "Preço": 4.49
-  },
-  {
-    "Município": "Teixeira De Freitas",
-    "Combustível": "Gasolina",
-    "Data": "2025-07-01",
-    "Preço": 6.09
-  },
-  {
-    "Município": "Teixeira De Freitas",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-07-01",
-    "Preço": 6.64
-  },
-  {
-    "Município": "Teixeira De Freitas",
-    "Combustível": "GLP",
-    "Data": "2025-06-12",
-    "Preço": 90
-  },
-  {
-    "Município": "Valenca",
-    "Combustível": "Diesel",
-    "Data": "2025-06-30",
-    "Preço": 5.63
-  },
-  {
-    "Município": "Valenca",
-    "Combustível": "Diesel S10",
-    "Data": "2025-06-30",
-    "Preço": 5.73
-  },
-  {
-    "Município": "Valenca",
-    "Combustível": "Etanol",
-    "Data": "2025-06-30",
-    "Preço": 4.29
-  },
-  {
-    "Município": "Valenca",
-    "Combustível": "Gasolina",
-    "Data": "2025-06-30",
-    "Preço": 5.59
-  },
-  {
-    "Município": "Valenca",
-    "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-30",
-    "Preço": 5.59
-  },
-  {
-    "Município": "Valenca",
-    "Combustível": "GLP",
-    "Data": "2025-06-16",
+    "Data": "2025-09-23",
     "Preço": 130
   },
   {
+    "Município": "Teixeira De Freitas",
+    "Combustível": "Diesel",
+    "Data": "2025-09-25",
+    "Preço": 5.89
+  },
+  {
+    "Município": "Teixeira De Freitas",
+    "Combustível": "Diesel S10",
+    "Data": "2025-09-25",
+    "Preço": 5.99
+  },
+  {
+    "Município": "Teixeira De Freitas",
+    "Combustível": "Etanol",
+    "Data": "2025-09-25",
+    "Preço": 4.77
+  },
+  {
+    "Município": "Teixeira De Freitas",
+    "Combustível": "Gasolina",
+    "Data": "2025-09-25",
+    "Preço": 6.49
+  },
+  {
+    "Município": "Teixeira De Freitas",
+    "Combustível": "Gasolina aditivada",
+    "Data": "2025-09-25",
+    "Preço": 6.59
+  },
+  {
+    "Município": "Teixeira De Freitas",
+    "Combustível": "GLP",
+    "Data": "2025-09-25",
+    "Preço": 96
+  },
+  {
     "Município": "Vitoria Da Conquista",
     "Combustível": "Diesel",
-    "Data": "2025-06-30",
-    "Preço": 5.65
+    "Data": "2025-09-22",
+    "Preço": 5.69
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "Diesel S10",
-    "Data": "2025-06-30",
-    "Preço": 5.65
+    "Data": "2025-09-22",
+    "Preço": 5.79
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "Etanol",
-    "Data": "2025-06-30",
+    "Data": "2025-09-22",
     "Preço": 4.95
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "Gasolina",
-    "Data": "2025-06-30",
-    "Preço": 6.55
+    "Data": "2025-09-22",
+    "Preço": 5.95
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "Gasolina aditivada",
-    "Data": "2025-06-30",
-    "Preço": 6.55
+    "Data": "2025-09-22",
+    "Preço": 5.95
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "GLP",
-    "Data": "2025-06-30",
-    "Preço": 100
+    "Data": "2025-09-24",
+    "Preço": 115
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "GNV",
-    "Data": "2025-06-30",
+    "Data": "2025-09-22",
     "Preço": 5.79
   }
 ]
