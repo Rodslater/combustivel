@@ -2,43 +2,43 @@
   {
     "Município": "Alagoinhas",
     "Combustível": "Diesel",
-    "Data": "2026-09-08",
-    "Preço": 6.57
+    "Data": "2026-09-14",
+    "Preço": 6.84
   },
   {
     "Município": "Alagoinhas",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-08",
-    "Preço": 6.99
+    "Data": "2026-09-14",
+    "Preço": 7.24
   },
   {
     "Município": "Alagoinhas",
     "Combustível": "Etanol",
-    "Data": "2026-09-08",
-    "Preço": 3.96
+    "Data": "2026-09-14",
+    "Preço": 3.99
   },
   {
     "Município": "Alagoinhas",
     "Combustível": "Gasolina",
-    "Data": "2026-09-08",
+    "Data": "2026-09-14",
     "Preço": 6.19
   },
   {
     "Município": "Alagoinhas",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-08",
+    "Data": "2026-09-14",
     "Preço": 6.19
   },
   {
     "Município": "Alagoinhas",
     "Combustível": "GLP",
-    "Data": "2026-09-08",
-    "Preço": 105
+    "Data": "2026-09-14",
+    "Preço": 110
   },
   {
     "Município": "Alagoinhas",
     "Combustível": "GNV",
-    "Data": "2026-09-08",
+    "Data": "2026-09-14",
     "Preço": 4.69
   },
   {
@@ -50,37 +50,37 @@
   {
     "Município": "Aracaju",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-10",
-    "Preço": 6.64
+    "Data": "2026-09-14",
+    "Preço": 6.99
   },
   {
     "Município": "Aracaju",
     "Combustível": "Etanol",
-    "Data": "2026-09-10",
+    "Data": "2026-09-14",
     "Preço": 5.3
   },
   {
     "Município": "Aracaju",
     "Combustível": "Gasolina",
-    "Data": "2026-09-10",
+    "Data": "2026-09-14",
     "Preço": 7
   },
   {
     "Município": "Aracaju",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-10",
+    "Data": "2026-09-14",
     "Preço": 7
   },
   {
     "Município": "Aracaju",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
-    "Preço": 110
+    "Data": "2026-09-14",
+    "Preço": 114.9
   },
   {
     "Município": "Aracaju",
     "Combustível": "GNV",
-    "Data": "2026-09-10",
+    "Data": "2026-09-14",
     "Preço": 4.83
   },
   {
@@ -128,296 +128,296 @@
   {
     "Município": "Barreiras",
     "Combustível": "Diesel",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 7.29
   },
   {
     "Município": "Barreiras",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-10",
-    "Preço": 7.31
+    "Data": "2026-09-17",
+    "Preço": 7.49
   },
   {
     "Município": "Barreiras",
     "Combustível": "Etanol",
-    "Data": "2026-09-09",
-    "Preço": 3.93
+    "Data": "2026-09-17",
+    "Preço": 3.89
   },
   {
     "Município": "Barreiras",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
-    "Preço": 6.68
+    "Data": "2026-09-17",
+    "Preço": 6.79
   },
   {
     "Município": "Barreiras",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 6.79
   },
   {
     "Município": "Barreiras",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 135
   },
   {
     "Município": "Brumado",
     "Combustível": "Diesel",
-    "Data": "2026-09-09",
-    "Preço": 6.99
+    "Data": "2026-09-16",
+    "Preço": 7.15
   },
   {
     "Município": "Brumado",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-09",
-    "Preço": 7.59
+    "Data": "2026-09-16",
+    "Preço": 7.6
   },
   {
     "Município": "Brumado",
     "Combustível": "Etanol",
-    "Data": "2026-09-09",
-    "Preço": 4.59
+    "Data": "2026-09-16",
+    "Preço": 4.39
   },
   {
     "Município": "Brumado",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
-    "Preço": 7.09
+    "Data": "2026-09-16",
+    "Preço": 6.62
   },
   {
     "Município": "Brumado",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-08",
-    "Preço": 7.26
+    "Data": "2026-09-16",
+    "Preço": 7.09
   },
   {
     "Município": "Brumado",
     "Combustível": "GLP",
-    "Data": "2026-09-08",
+    "Data": "2026-09-15",
     "Preço": 108
   },
   {
     "Município": "Caetite",
     "Combustível": "Diesel",
-    "Data": "2026-09-09",
+    "Data": "2026-09-16",
     "Preço": 7.48
   },
   {
     "Município": "Caetite",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-09",
+    "Data": "2026-09-16",
     "Preço": 7.98
   },
   {
     "Município": "Caetite",
     "Combustível": "Etanol",
-    "Data": "2026-09-09",
+    "Data": "2026-09-16",
     "Preço": 4.68
   },
   {
     "Município": "Caetite",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
+    "Data": "2026-09-16",
     "Preço": 6.98
   },
   {
     "Município": "Caetite",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-09",
+    "Data": "2026-09-16",
     "Preço": 6.99
   },
   {
     "Município": "Caetite",
     "Combustível": "GLP",
-    "Data": "2026-09-09",
-    "Preço": 100
+    "Data": "2026-09-16",
+    "Preço": 105
   },
   {
     "Município": "Delmiro Gouveia",
     "Combustível": "Diesel",
-    "Data": "2026-09-08",
+    "Data": "2026-09-15",
     "Preço": 7.39
   },
   {
     "Município": "Delmiro Gouveia",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-08",
+    "Data": "2026-09-15",
     "Preço": 7.94
   },
   {
     "Município": "Delmiro Gouveia",
     "Combustível": "Etanol",
-    "Data": "2026-09-08",
+    "Data": "2026-09-15",
     "Preço": 4.88
   },
   {
     "Município": "Delmiro Gouveia",
     "Combustível": "Gasolina",
-    "Data": "2026-09-08",
+    "Data": "2026-09-15",
     "Preço": 7.32
   },
   {
     "Município": "Delmiro Gouveia",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-08",
+    "Data": "2026-09-15",
     "Preço": 7.59
   },
   {
     "Município": "Delmiro Gouveia",
     "Combustível": "GLP",
-    "Data": "2026-09-08",
+    "Data": "2026-09-15",
     "Preço": 100
   },
   {
     "Município": "Eunapolis",
     "Combustível": "Diesel",
-    "Data": "2026-09-09",
-    "Preço": 6.92
+    "Data": "2026-09-16",
+    "Preço": 7.19
   },
   {
     "Município": "Eunapolis",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-09",
-    "Preço": 7.54
+    "Data": "2026-09-16",
+    "Preço": 7.64
   },
   {
     "Município": "Eunapolis",
     "Combustível": "Etanol",
-    "Data": "2026-09-09",
-    "Preço": 4.8
+    "Data": "2026-09-16",
+    "Preço": 4.79
   },
   {
     "Município": "Eunapolis",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
-    "Preço": 6.94
+    "Data": "2026-09-16",
+    "Preço": 6.99
   },
   {
     "Município": "Eunapolis",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-09",
-    "Preço": 6.94
+    "Data": "2026-09-16",
+    "Preço": 7.09
   },
   {
     "Município": "Eunapolis",
     "Combustível": "GLP",
-    "Data": "2026-09-09",
-    "Preço": 110
+    "Data": "2026-09-16",
+    "Preço": 105
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "Diesel",
-    "Data": "2026-09-10",
-    "Preço": 6.43
+    "Data": "2026-09-17",
+    "Preço": 6.78
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-10",
-    "Preço": 6.98
+    "Data": "2026-09-17",
+    "Preço": 7.16
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "Etanol",
-    "Data": "2026-09-10",
-    "Preço": 4.33
+    "Data": "2026-09-17",
+    "Preço": 4.29
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "Gasolina",
-    "Data": "2026-09-10",
-    "Preço": 6.33
+    "Data": "2026-09-17",
+    "Preço": 6.29
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-10",
-    "Preço": 6.33
+    "Data": "2026-09-17",
+    "Preço": 6.29
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
-    "Preço": 100
+    "Data": "2026-09-17",
+    "Preço": 99.99
   },
   {
     "Município": "Feira De Santana",
     "Combustível": "GNV",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 4.79
   },
   {
     "Município": "Guanambi",
     "Combustível": "Diesel",
-    "Data": "2026-09-08",
-    "Preço": 6.6
+    "Data": "2026-09-14",
+    "Preço": 6.7
   },
   {
     "Município": "Guanambi",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-08",
-    "Preço": 7.1
+    "Data": "2026-09-14",
+    "Preço": 7.6
   },
   {
     "Município": "Guanambi",
     "Combustível": "Etanol",
-    "Data": "2026-09-08",
-    "Preço": 4
+    "Data": "2026-09-14",
+    "Preço": 4.19
   },
   {
     "Município": "Guanambi",
     "Combustível": "Gasolina",
-    "Data": "2026-09-08",
-    "Preço": 6.35
+    "Data": "2026-09-14",
+    "Preço": 6.49
   },
   {
     "Município": "Guanambi",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-08",
-    "Preço": 6.47
+    "Data": "2026-09-14",
+    "Preço": 6.79
   },
   {
     "Município": "Guanambi",
     "Combustível": "GLP",
-    "Data": "2026-09-08",
+    "Data": "2026-09-14",
     "Preço": 100
   },
   {
     "Município": "Ilheus",
     "Combustível": "Diesel",
-    "Data": "2026-09-11",
+    "Data": "2026-09-14",
     "Preço": 7.97
   },
   {
     "Município": "Ilheus",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-11",
-    "Preço": 7.99
+    "Data": "2026-09-17",
+    "Preço": 8.79
   },
   {
     "Município": "Ilheus",
     "Combustível": "Etanol",
-    "Data": "2026-09-11",
-    "Preço": 4.79
+    "Data": "2026-09-17",
+    "Preço": 4.77
   },
   {
     "Município": "Ilheus",
     "Combustível": "Gasolina",
-    "Data": "2026-09-11",
-    "Preço": 6.99
+    "Data": "2026-09-17",
+    "Preço": 6.97
   },
   {
     "Município": "Ilheus",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-11",
-    "Preço": 6.99
+    "Data": "2026-09-17",
+    "Preço": 6.97
   },
   {
     "Município": "Ilheus",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
-    "Preço": 130
+    "Data": "2026-09-17",
+    "Preço": 125
   },
   {
     "Município": "Ilheus",
@@ -428,152 +428,152 @@
   {
     "Município": "Ipira",
     "Combustível": "Diesel",
-    "Data": "2026-09-10",
-    "Preço": 6.59
+    "Data": "2026-09-17",
+    "Preço": 7.15
   },
   {
     "Município": "Ipira",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-10",
-    "Preço": 7.29
+    "Data": "2026-09-17",
+    "Preço": 8.29
   },
   {
     "Município": "Ipira",
     "Combustível": "Etanol",
-    "Data": "2026-09-10",
-    "Preço": 4.24
+    "Data": "2026-09-17",
+    "Preço": 4.29
   },
   {
     "Município": "Ipira",
     "Combustível": "Gasolina",
-    "Data": "2026-09-10",
-    "Preço": 6.17
+    "Data": "2026-09-17",
+    "Preço": 6.33
   },
   {
     "Município": "Ipira",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-10",
-    "Preço": 6.17
+    "Data": "2026-09-17",
+    "Preço": 6.38
   },
   {
     "Município": "Ipira",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 115
   },
   {
     "Município": "Irece",
     "Combustível": "Diesel",
-    "Data": "2026-09-09",
-    "Preço": 6.99
+    "Data": "2026-09-18",
+    "Preço": 7.38
   },
   {
     "Município": "Irece",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-09",
-    "Preço": 7.51
+    "Data": "2026-09-18",
+    "Preço": 7.96
   },
   {
     "Município": "Irece",
     "Combustível": "Etanol",
-    "Data": "2026-09-09",
-    "Preço": 4.49
+    "Data": "2026-09-18",
+    "Preço": 4.78
   },
   {
     "Município": "Irece",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
+    "Data": "2026-09-18",
     "Preço": 6.44
   },
   {
     "Município": "Irece",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-09",
-    "Preço": 6.7
+    "Data": "2026-09-17",
+    "Preço": 6.98
   },
   {
     "Município": "Irece",
     "Combustível": "GLP",
-    "Data": "2026-09-09",
+    "Data": "2026-09-17",
     "Preço": 120
   },
   {
     "Município": "Itabaiana",
     "Combustível": "Diesel",
-    "Data": "2026-09-07",
-    "Preço": 6.53
+    "Data": "2026-09-15",
+    "Preço": 6.78
   },
   {
     "Município": "Itabaiana",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-07",
-    "Preço": 6.46
+    "Data": "2026-09-15",
+    "Preço": 6.93
   },
   {
     "Município": "Itabaiana",
     "Combustível": "Etanol",
-    "Data": "2026-09-07",
+    "Data": "2026-09-15",
     "Preço": 5.5
   },
   {
     "Município": "Itabaiana",
     "Combustível": "Gasolina",
-    "Data": "2026-09-07",
+    "Data": "2026-09-15",
     "Preço": 6.99
   },
   {
     "Município": "Itabaiana",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-07",
+    "Data": "2026-09-15",
     "Preço": 6.99
   },
   {
     "Município": "Itabaiana",
     "Combustível": "GLP",
-    "Data": "2026-09-07",
+    "Data": "2026-09-15",
     "Preço": 110
   },
   {
     "Município": "Itabuna",
     "Combustível": "Diesel",
-    "Data": "2026-09-09",
-    "Preço": 6.89
+    "Data": "2026-09-17",
+    "Preço": 7.09
   },
   {
     "Município": "Itabuna",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-09",
-    "Preço": 7.28
+    "Data": "2026-09-17",
+    "Preço": 7.39
   },
   {
     "Município": "Itabuna",
     "Combustível": "Etanol",
-    "Data": "2026-09-09",
+    "Data": "2026-09-17",
     "Preço": 4.49
   },
   {
     "Município": "Itabuna",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
+    "Data": "2026-09-17",
     "Preço": 6.59
   },
   {
     "Município": "Itabuna",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-09",
-    "Preço": 6.59
+    "Data": "2026-09-17",
+    "Preço": 6.62
   },
   {
     "Município": "Itabuna",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
-    "Preço": 105
+    "Data": "2026-09-17",
+    "Preço": 122
   },
   {
     "Município": "Itabuna",
     "Combustível": "GNV",
-    "Data": "2026-09-08",
-    "Preço": 5.69
+    "Data": "2026-09-17",
+    "Preço": 5.68
   },
   {
     "Município": "Itamaraju",
@@ -614,181 +614,181 @@
   {
     "Município": "Jacobina",
     "Combustível": "Diesel",
-    "Data": "2026-09-12",
-    "Preço": 6.85
+    "Data": "2026-09-14",
+    "Preço": 6.84
   },
   {
     "Município": "Jacobina",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-12",
-    "Preço": 7.35
+    "Data": "2026-09-14",
+    "Preço": 7.34
   },
   {
     "Município": "Jacobina",
     "Combustível": "Etanol",
-    "Data": "2026-09-12",
-    "Preço": 4.55
+    "Data": "2026-09-14",
+    "Preço": 4.45
   },
   {
     "Município": "Jacobina",
     "Combustível": "Gasolina",
-    "Data": "2026-09-12",
-    "Preço": 6.85
+    "Data": "2026-09-14",
+    "Preço": 6.79
   },
   {
     "Município": "Jacobina",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-12",
-    "Preço": 6.85
+    "Data": "2026-09-14",
+    "Preço": 6.79
   },
   {
     "Município": "Jacobina",
     "Combustível": "GLP",
-    "Data": "2026-09-09",
-    "Preço": 139
+    "Data": "2026-09-14",
+    "Preço": 110
   },
   {
     "Município": "Jaguaquara",
     "Combustível": "Diesel",
-    "Data": "2026-09-09",
-    "Preço": 6.69
+    "Data": "2026-09-15",
+    "Preço": 7.09
   },
   {
     "Município": "Jaguaquara",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-09",
-    "Preço": 7.29
+    "Data": "2026-09-15",
+    "Preço": 7.44
   },
   {
     "Município": "Jaguaquara",
     "Combustível": "Etanol",
-    "Data": "2026-09-09",
+    "Data": "2026-09-15",
     "Preço": 4.39
   },
   {
     "Município": "Jaguaquara",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
+    "Data": "2026-09-15",
     "Preço": 6.59
   },
   {
     "Município": "Jaguaquara",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-08",
+    "Data": "2026-09-14",
     "Preço": 6.89
   },
   {
     "Município": "Jaguaquara",
     "Combustível": "GLP",
-    "Data": "2026-09-09",
+    "Data": "2026-09-17",
     "Preço": 110
   },
   {
     "Município": "Jequie",
     "Combustível": "Diesel",
-    "Data": "2026-09-07",
-    "Preço": 6.79
+    "Data": "2026-09-16",
+    "Preço": 7.33
   },
   {
     "Município": "Jequie",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-07",
-    "Preço": 7.49
+    "Data": "2026-09-16",
+    "Preço": 7.69
   },
   {
     "Município": "Jequie",
     "Combustível": "Etanol",
-    "Data": "2026-09-07",
+    "Data": "2026-09-16",
     "Preço": 4.27
   },
   {
     "Município": "Jequie",
     "Combustível": "Gasolina",
-    "Data": "2026-09-07",
+    "Data": "2026-09-16",
     "Preço": 6.47
   },
   {
     "Município": "Jequie",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-07",
+    "Data": "2026-09-16",
     "Preço": 6.47
   },
   {
     "Município": "Jequie",
     "Combustível": "GLP",
-    "Data": "2026-09-07",
+    "Data": "2026-09-16",
     "Preço": 99.99
   },
   {
     "Município": "Juazeiro",
     "Combustível": "Diesel",
-    "Data": "2026-09-10",
-    "Preço": 6.49
+    "Data": "2026-09-16",
+    "Preço": 6.45
   },
   {
     "Município": "Juazeiro",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-10",
-    "Preço": 6.89
+    "Data": "2026-09-16",
+    "Preço": 6.94
   },
   {
     "Município": "Juazeiro",
     "Combustível": "Etanol",
-    "Data": "2026-09-10",
-    "Preço": 5.39
+    "Data": "2026-09-16",
+    "Preço": 4.9
   },
   {
     "Município": "Juazeiro",
     "Combustível": "Gasolina",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 7.39
   },
   {
     "Município": "Juazeiro",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-10",
-    "Preço": 7.39
+    "Data": "2026-09-15",
+    "Preço": 7.49
   },
   {
     "Município": "Juazeiro",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 110
   },
   {
     "Município": "Lagarto",
     "Combustível": "Diesel",
-    "Data": "2026-09-10",
-    "Preço": 6.53
+    "Data": "2026-09-17",
+    "Preço": 6.78
   },
   {
     "Município": "Lagarto",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-10",
-    "Preço": 6.64
+    "Data": "2026-09-17",
+    "Preço": 6.93
   },
   {
     "Município": "Lagarto",
     "Combustível": "Etanol",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 5.28
   },
   {
     "Município": "Lagarto",
     "Combustível": "Gasolina",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 6.99
   },
   {
     "Município": "Lagarto",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 6.99
   },
   {
     "Município": "Lagarto",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 115
   },
   {
@@ -836,194 +836,194 @@
   {
     "Município": "Maceio",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-07",
+    "Data": "2026-09-14",
     "Preço": 6.59
   },
   {
     "Município": "Maceio",
     "Combustível": "Etanol",
-    "Data": "2026-09-07",
+    "Data": "2026-09-14",
     "Preço": 4.95
   },
   {
     "Município": "Maceio",
     "Combustível": "Gasolina",
-    "Data": "2026-09-07",
+    "Data": "2026-09-14",
     "Preço": 6.59
   },
   {
     "Município": "Maceio",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-07",
+    "Data": "2026-09-14",
     "Preço": 6.69
   },
   {
     "Município": "Maceio",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
-    "Preço": 86.99
+    "Data": "2026-09-17",
+    "Preço": 89.99
   },
   {
     "Município": "Maceio",
     "Combustível": "GNV",
-    "Data": "2026-09-07",
+    "Data": "2026-09-14",
     "Preço": 4.39
   },
   {
     "Município": "Nossa Senhora Do Socorro",
     "Combustível": "Diesel",
-    "Data": "2026-09-08",
-    "Preço": 6.65
+    "Data": "2026-09-16",
+    "Preço": 6.99
   },
   {
     "Município": "Nossa Senhora Do Socorro",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-08",
-    "Preço": 6.76
+    "Data": "2026-09-16",
+    "Preço": 6.99
   },
   {
     "Município": "Nossa Senhora Do Socorro",
     "Combustível": "Etanol",
-    "Data": "2026-09-08",
+    "Data": "2026-09-16",
     "Preço": 5.3
   },
   {
     "Município": "Nossa Senhora Do Socorro",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
-    "Preço": 7.07
+    "Data": "2026-09-16",
+    "Preço": 7
   },
   {
     "Município": "Nossa Senhora Do Socorro",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-09",
+    "Data": "2026-09-16",
     "Preço": 7.15
   },
   {
     "Município": "Nossa Senhora Do Socorro",
     "Combustível": "GLP",
-    "Data": "2026-09-08",
+    "Data": "2026-09-16",
     "Preço": 105
   },
   {
     "Município": "Nossa Senhora Do Socorro",
     "Combustível": "GNV",
-    "Data": "2026-09-07",
+    "Data": "2026-09-14",
     "Preço": 4.83
   },
   {
     "Município": "Palmeira Dos Indios",
     "Combustível": "Diesel",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 7.25
   },
   {
     "Município": "Palmeira Dos Indios",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-10",
-    "Preço": 6.85
+    "Data": "2026-09-16",
+    "Preço": 7.04
   },
   {
     "Município": "Palmeira Dos Indios",
     "Combustível": "Etanol",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 4.79
   },
   {
     "Município": "Palmeira Dos Indios",
     "Combustível": "Gasolina",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 6.49
   },
   {
     "Município": "Palmeira Dos Indios",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 6.69
   },
   {
     "Município": "Palmeira Dos Indios",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 100
   },
   {
     "Município": "Palmeira Dos Indios",
     "Combustível": "GNV",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 4.94
   },
   {
     "Município": "Paulo Afonso",
     "Combustível": "Diesel",
-    "Data": "2026-09-10",
-    "Preço": 6.82
+    "Data": "2026-09-17",
+    "Preço": 7.37
   },
   {
     "Município": "Paulo Afonso",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-10",
-    "Preço": 6.9
+    "Data": "2026-09-17",
+    "Preço": 7.25
   },
   {
     "Município": "Paulo Afonso",
     "Combustível": "Etanol",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 4.65
   },
   {
     "Município": "Paulo Afonso",
     "Combustível": "Gasolina",
-    "Data": "2026-09-10",
-    "Preço": 6.54
+    "Data": "2026-09-17",
+    "Preço": 6.55
   },
   {
     "Município": "Paulo Afonso",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 6.59
   },
   {
     "Município": "Paulo Afonso",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 110
   },
   {
     "Município": "Pocoes",
     "Combustível": "Diesel",
-    "Data": "2026-09-09",
-    "Preço": 6.39
+    "Data": "2026-09-18",
+    "Preço": 7.79
   },
   {
     "Município": "Pocoes",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-09",
-    "Preço": 6.97
+    "Data": "2026-09-18",
+    "Preço": 8.12
   },
   {
     "Município": "Pocoes",
     "Combustível": "Etanol",
-    "Data": "2026-09-09",
+    "Data": "2026-09-18",
     "Preço": 4.39
   },
   {
     "Município": "Pocoes",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
-    "Preço": 6.59
+    "Data": "2026-09-18",
+    "Preço": 6.79
   },
   {
     "Município": "Pocoes",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-09",
+    "Data": "2026-09-14",
     "Preço": 6.59
   },
   {
     "Município": "Pocoes",
     "Combustível": "GLP",
-    "Data": "2026-09-10",
-    "Preço": 100
+    "Data": "2026-09-18",
+    "Preço": 105
   },
   {
     "Município": "Porto Seguro",
@@ -1034,337 +1034,337 @@
   {
     "Município": "Porto Seguro",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-08",
+    "Data": "2026-09-16",
     "Preço": 7.3
   },
   {
     "Município": "Porto Seguro",
     "Combustível": "Etanol",
-    "Data": "2026-09-08",
-    "Preço": 4.69
+    "Data": "2026-09-16",
+    "Preço": 5.15
   },
   {
     "Município": "Porto Seguro",
     "Combustível": "Gasolina",
-    "Data": "2026-09-08",
-    "Preço": 6.6
+    "Data": "2026-09-16",
+    "Preço": 7
   },
   {
     "Município": "Porto Seguro",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-08",
-    "Preço": 6.99
+    "Data": "2026-09-16",
+    "Preço": 7.59
   },
   {
     "Município": "Porto Seguro",
     "Combustível": "GLP",
-    "Data": "2026-08-31",
+    "Data": "2026-09-16",
     "Preço": 125
   },
   {
     "Município": "Rio Largo",
     "Combustível": "Diesel",
-    "Data": "2026-09-09",
-    "Preço": 6.69
+    "Data": "2026-09-15",
+    "Preço": 6.89
   },
   {
     "Município": "Rio Largo",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-09",
-    "Preço": 6.59
+    "Data": "2026-09-15",
+    "Preço": 6.58
   },
   {
     "Município": "Rio Largo",
     "Combustível": "Etanol",
-    "Data": "2026-09-09",
+    "Data": "2026-09-15",
     "Preço": 4.89
   },
   {
     "Município": "Rio Largo",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
+    "Data": "2026-09-15",
     "Preço": 6.49
   },
   {
     "Município": "Rio Largo",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-09",
+    "Data": "2026-09-15",
     "Preço": 6.69
   },
   {
     "Município": "Rio Largo",
     "Combustível": "GLP",
-    "Data": "2026-09-09",
-    "Preço": 100
+    "Data": "2026-09-15",
+    "Preço": 110
   },
   {
     "Município": "Rio Largo",
     "Combustível": "GNV",
-    "Data": "2026-09-09",
+    "Data": "2026-09-15",
     "Preço": 4.39
   },
   {
     "Município": "Salvador",
     "Combustível": "Diesel",
-    "Data": "2026-09-02",
-    "Preço": 6.99
+    "Data": "2026-09-14",
+    "Preço": 7.06
   },
   {
     "Município": "Salvador",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-08",
-    "Preço": 7.28
+    "Data": "2026-09-15",
+    "Preço": 7.34
   },
   {
     "Município": "Salvador",
     "Combustível": "Etanol",
-    "Data": "2026-09-08",
-    "Preço": 4.33
+    "Data": "2026-09-15",
+    "Preço": 4.13
   },
   {
     "Município": "Salvador",
     "Combustível": "Gasolina",
-    "Data": "2026-09-08",
-    "Preço": 6.33
+    "Data": "2026-09-15",
+    "Preço": 6.39
   },
   {
     "Município": "Salvador",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-08",
-    "Preço": 6.33
+    "Data": "2026-09-15",
+    "Preço": 6.63
   },
   {
     "Município": "Salvador",
     "Combustível": "GLP",
-    "Data": "2026-09-09",
-    "Preço": 125
+    "Data": "2026-09-15",
+    "Preço": 100
   },
   {
     "Município": "Salvador",
     "Combustível": "GNV",
-    "Data": "2026-09-08",
-    "Preço": 4.55
+    "Data": "2026-09-14",
+    "Preço": 4.53
   },
   {
     "Município": "Santo Antonio De Jesus",
     "Combustível": "Diesel",
-    "Data": "2026-09-07",
-    "Preço": 6.75
+    "Data": "2026-09-18",
+    "Preço": 8.07
   },
   {
     "Município": "Santo Antonio De Jesus",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-07",
-    "Preço": 7.18
+    "Data": "2026-09-18",
+    "Preço": 8.24
   },
   {
     "Município": "Santo Antonio De Jesus",
     "Combustível": "Etanol",
-    "Data": "2026-09-07",
+    "Data": "2026-09-18",
     "Preço": 4.98
   },
   {
     "Município": "Santo Antonio De Jesus",
     "Combustível": "Gasolina",
-    "Data": "2026-09-07",
+    "Data": "2026-09-18",
     "Preço": 6.98
   },
   {
     "Município": "Santo Antonio De Jesus",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-07",
+    "Data": "2026-09-18",
     "Preço": 6.98
   },
   {
     "Município": "Santo Antonio De Jesus",
     "Combustível": "GLP",
-    "Data": "2026-09-07",
+    "Data": "2026-09-18",
     "Preço": 110
   },
   {
     "Município": "Senhor Do Bonfim",
     "Combustível": "Diesel",
-    "Data": "2026-09-08",
+    "Data": "2026-09-15",
     "Preço": 6.59
   },
   {
     "Município": "Senhor Do Bonfim",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-08",
+    "Data": "2026-09-17",
     "Preço": 7.19
   },
   {
     "Município": "Senhor Do Bonfim",
     "Combustível": "Etanol",
-    "Data": "2026-09-10",
+    "Data": "2026-09-17",
     "Preço": 4.59
   },
   {
     "Município": "Senhor Do Bonfim",
     "Combustível": "Gasolina",
-    "Data": "2026-09-10",
-    "Preço": 6.99
+    "Data": "2026-09-17",
+    "Preço": 6.69
   },
   {
     "Município": "Senhor Do Bonfim",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-08",
+    "Data": "2026-09-15",
     "Preço": 6.77
   },
   {
     "Município": "Senhor Do Bonfim",
     "Combustível": "GLP",
-    "Data": "2026-09-08",
-    "Preço": 120
+    "Data": "2026-09-15",
+    "Preço": 125
   },
   {
     "Município": "Serrinha",
     "Combustível": "Diesel",
-    "Data": "2026-09-09",
-    "Preço": 6.57
+    "Data": "2026-09-16",
+    "Preço": 6.85
   },
   {
     "Município": "Serrinha",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-09",
-    "Preço": 7.06
+    "Data": "2026-09-16",
+    "Preço": 7.26
   },
   {
     "Município": "Serrinha",
     "Combustível": "Etanol",
-    "Data": "2026-09-09",
-    "Preço": 4.16
+    "Data": "2026-09-16",
+    "Preço": 4.17
   },
   {
     "Município": "Serrinha",
     "Combustível": "Gasolina",
-    "Data": "2026-09-09",
-    "Preço": 6.73
+    "Data": "2026-09-16",
+    "Preço": 6.74
   },
   {
     "Município": "Serrinha",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-09",
-    "Preço": 6.73
+    "Data": "2026-09-16",
+    "Preço": 6.74
   },
   {
     "Município": "Serrinha",
     "Combustível": "GLP",
-    "Data": "2026-09-09",
+    "Data": "2026-09-16",
     "Preço": 120
   },
   {
     "Município": "Teixeira De Freitas",
     "Combustível": "Diesel",
-    "Data": "2026-09-10",
-    "Preço": 6.69
+    "Data": "2026-09-16",
+    "Preço": 6.81
   },
   {
     "Município": "Teixeira De Freitas",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-10",
-    "Preço": 6.79
+    "Data": "2026-09-16",
+    "Preço": 6.91
   },
   {
     "Município": "Teixeira De Freitas",
     "Combustível": "Etanol",
-    "Data": "2026-09-10",
-    "Preço": 4.69
+    "Data": "2026-09-16",
+    "Preço": 4.81
   },
   {
     "Município": "Teixeira De Freitas",
     "Combustível": "Gasolina",
-    "Data": "2026-09-10",
-    "Preço": 6.69
+    "Data": "2026-09-16",
+    "Preço": 6.81
   },
   {
     "Município": "Teixeira De Freitas",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-10",
-    "Preço": 6.79
+    "Data": "2026-09-16",
+    "Preço": 6.91
   },
   {
     "Município": "Teixeira De Freitas",
     "Combustível": "GLP",
-    "Data": "2026-09-09",
-    "Preço": 89.99
+    "Data": "2026-09-16",
+    "Preço": 96
   },
   {
     "Município": "Valenca",
     "Combustível": "Diesel",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 6.99
   },
   {
     "Município": "Valenca",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 7.29
   },
   {
     "Município": "Valenca",
     "Combustível": "Etanol",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 4.99
   },
   {
     "Município": "Valenca",
     "Combustível": "Gasolina",
-    "Data": "2026-09-10",
+    "Data": "2026-09-16",
     "Preço": 6.94
   },
   {
     "Município": "Valenca",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-10",
-    "Preço": 6.94
+    "Data": "2026-09-16",
+    "Preço": 6.99
   },
   {
     "Município": "Valenca",
     "Combustível": "GLP",
-    "Data": "2026-09-09",
+    "Data": "2026-09-14",
     "Preço": 115
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "Diesel",
-    "Data": "2026-09-07",
-    "Preço": 6.74
+    "Data": "2026-09-14",
+    "Preço": 6.99
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "Diesel S10",
-    "Data": "2026-09-07",
-    "Preço": 7.25
+    "Data": "2026-09-14",
+    "Preço": 7.29
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "Etanol",
-    "Data": "2026-09-07",
-    "Preço": 4.95
+    "Data": "2026-09-14",
+    "Preço": 4.39
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "Gasolina",
-    "Data": "2026-09-07",
+    "Data": "2026-09-14",
     "Preço": 7.15
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "Gasolina aditivada",
-    "Data": "2026-09-07",
+    "Data": "2026-09-14",
     "Preço": 7.15
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "GLP",
-    "Data": "2026-09-07",
-    "Preço": 110
+    "Data": "2026-09-17",
+    "Preço": 115
   },
   {
     "Município": "Vitoria Da Conquista",
     "Combustível": "GNV",
-    "Data": "2026-09-07",
+    "Data": "2026-09-14",
     "Preço": 6.49
   }
 ]
